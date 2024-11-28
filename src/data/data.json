@@ -1,0 +1,96 @@
+[
+	{ "id": 1,
+	  "nombre": "..",
+	  "curso": "Web development",
+	  "carrera": "Front-end develop",
+	  "diplomatura": "Coder-House",
+	  
+	  "información": "qefeqwvgs",
+   	 "video": "enlace de la ubicación",
+	"enlace": "http…"
+	},
+	{ "id": 2,
+	  "nombre": "nrn",
+	  "curso": "Web development",
+	  "carrera": "Front-end develop",
+	  "diplomatura": "Coder-House",
+	  "información": "bsrdvx",
+   	 "video": "enlace de la ubicación",
+	 "enlace" : "http"
+	},
+    { "id": 3,
+	  "nombre": "..",
+	  "curso": "Java Script",
+	  "carrera": "Front-end develop",
+	  "diplomatura": "Coder-House",
+	  "información": "qefeqwvgs",
+   	 "video": "enlace de la ubicación",
+	 "enlace": "http…"
+	},
+	{ "id": 4,
+	  "nombre": "Diagnovet project updated",
+	  "curso": "Freelance project",
+	  "carrera": "Product design and Front-end develop",
+	  "diplomatura": "Coder-House", 
+	  "informacion": "wovbwjvwñonw",
+   	  "video": "enlace de la ubicación" ,
+	  "enlace": "http…"
+	},
+	
+	{ "id": 5,
+	  "nombre": "...",
+	  "curso": "React course",
+	  "carrera": "Front-end develop",
+	  "diplomatura": "Coder-House",
+	  "información": "wovbwjvwñonw",
+   	  "video": "enlace de la ubicación",
+	  "enlace": "http…"
+	},
+
+	{ "id": 6,
+	  "nombre": "Community for mobile",
+	  "curso": "UX - UI Course",
+	  "carrera": "Product design",
+	  "diplomatura": "Coder-House",
+	  "información": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends. This was the result.",
+	 "enlace": "http…"
+	},
+	{"id": 7,
+	  "nombre": "Community for mobile updated",
+	  "curso": "Freelance project",
+	  "carrera": "Product design",
+	  "diplomatura": "Coder-House",
+	  "información": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends.This was the result" ,
+   	 "video": "enlace de la ubicación",
+	 "enlace": "http…"
+	},
+	{"id": 8,
+	  "nombre": "Community for desktop",
+	  "curso": "Prototipe",
+	  "carrera": "Product design",
+	  "diplomatura": "Coder-House",
+	  "información": "In this course I continued with the idea of my “Community” project but adapted it to Desktop. I started from a low definition model, going through medium, until reaching high and in that process I learned to do tests in the early stages of design, and AB tests that helped me in the ideation process. For the first time I made a design using Atomic design to create “responsive” components and discovered tools to document them.",
+   	 "video": "enlace de la ubicación",
+	 "enlace": "https://www.figma.com/design/ZdBH4avfyBKt0BqBWWXiFv/Community-Evelyn-Fernandez?node-id=0-1&t=POWscGy4kE9oBAkY-1"
+	},
+    
+	{"id": 9,
+	  "nombre": "Garnier redesign",
+	  "curso": "UI",
+	  "carrera": "Product design",
+	  "diplomatura": "Coder-House",
+	  "información": "In this course I learned how to build, analyze, maintain and scale a Design System. I applied the Atomic Design methodology to create each of the elements. I created a design system to improve the quality of your product design and made your product ecosystem grow.The page I chose to redesign was Garnier Argentina, and this was the result.",
+   	 "video": "enlace de la ubicación",
+	 "enlace": "https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=12%3A7445&node-id=12-7474&node-type=frame&viewport=483%2C2160%2C0.3&t=qqOzptW4qdLictsf-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=12%3A7474"
+	},
+
+	{ "id": 10,
+	  "nombre": "Product manager",
+	  "curso": "Product manager",
+	  "carrera": "Product design",
+	  "diplomatura": "Coder-House",
+	  "información": "In this course I acquired the skills and abilities necessary to work as a Product Manager. I learned the best practices and tools necessary to create a product using the most commonly used methodologies: Design Thinking, Scrum, UX, Prototyping, Customer Development and measurement through KPIs.",
+   	  "video": "enlace de la ubicación",
+      "enlace": "enlace..."
+	}
+	]
