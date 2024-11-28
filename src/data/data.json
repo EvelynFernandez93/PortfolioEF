@@ -1,96 +1,86 @@
 [
 	{ "id": 1,
-	  "nombre": "..",
+	  "nombre": "Diagnovet for desktop",
 	  "curso": "Web development",
-	  "carrera": "Front-end develop",
+	  "carrera": "Front-end developer",
 	  "diplomatura": "Coder-House",
-	  
-	  "información": "qefeqwvgs",
-   	 "video": "enlace de la ubicación",
-	"enlace": "http…"
+	  "img": "",
+	  "informacion": "qefeqwvgs",
+   	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
+	"enlace": "https://evelynfernandez93.github.io/PFFernandezEvelynNahir/"
 	},
 	{ "id": 2,
-	  "nombre": "nrn",
+	  "nombre": "Diagnovet for desktop 2",
 	  "curso": "Web development",
-	  "carrera": "Front-end develop",
+	  "carrera": "Front-end developer",
 	  "diplomatura": "Coder-House",
-	  "información": "bsrdvx",
-   	 "video": "enlace de la ubicación",
-	 "enlace" : "http"
+	  "img": "",
+	  "informacion": "I learned how to apply Bootstrap to my projects, and I understood the importance of SEO in my developments. I uploaded my site to a server, and learned how to interact with this service.",
+   	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
+	 "enlace" : "https://evelynfernandez93.github.io/2PreEntregaEvelynFernandez/"
 	},
     { "id": 3,
 	  "nombre": "..",
 	  "curso": "Java Script",
-	  "carrera": "Front-end develop",
+	  "carrera": "Front-end developer",
 	  "diplomatura": "Coder-House",
-	  "información": "qefeqwvgs",
+	  "informacion": "qefeqwvgs",
    	 "video": "enlace de la ubicación",
-	 "enlace": "http…"
+	 "enlace": "https://evelynfernandez93.github.io/3PreEntregaFernandezEvelyn/"
 	},
 	{ "id": 4,
-	  "nombre": "Diagnovet project updated",
-	  "curso": "Freelance project",
-	  "carrera": "Product design and Front-end develop",
+	  "nombre": "E-commerce",
+	  "curso": "React course",
+	  "carrera":"Front-end developer",
 	  "diplomatura": "Coder-House", 
 	  "informacion": "wovbwjvwñonw",
    	  "video": "enlace de la ubicación" ,
 	  "enlace": "http…"
 	},
 	
+	
 	{ "id": 5,
-	  "nombre": "...",
-	  "curso": "React course",
-	  "carrera": "Front-end develop",
-	  "diplomatura": "Coder-House",
-	  "información": "wovbwjvwñonw",
-   	  "video": "enlace de la ubicación",
-	  "enlace": "http…"
-	},
-
-	{ "id": 6,
 	  "nombre": "Community for mobile",
 	  "curso": "UX - UI Course",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
-	  "información": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends. This was the result.",
-	 "enlace": "http…"
+	  "informacion": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends. This was the result.",
+	 "enlace": "https://www.figma.com/design/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?node-id=0-1&t=gH6RVHyt88aJ565Y-1",
+	 "prototipe": "https://www.figma.com/proto/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?page-id=1%3A9354&node-id=1-10187&node-type=frame&viewport=1359%2C329%2C0.2&t=gRhBJbtPD6DDx4eI-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A10187"
+	 
 	},
-	{"id": 7,
+	{"id": 6,
 	  "nombre": "Community for mobile updated",
 	  "curso": "Freelance project",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
-	  "información": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends.This was the result" ,
+	  "informacion": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends.This was the result" ,
    	 "video": "enlace de la ubicación",
-	 "enlace": "http…"
+	 "enlace": "https://www.figma.com/design/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?node-id=121-11638&t=B3CdgFVgSlaHlAwo-1",
+	 "prototipe": "https://www.figma.com/proto/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?page-id=153%3A20557&node-id=153-20785&node-type=frame&viewport=332%2C453%2C0.03&t=3eRmajSexp1XWHuL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=153%3A20785"
 	},
-	{"id": 8,
+	{"id": 7,
 	  "nombre": "Community for desktop",
 	  "curso": "Prototipe",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
-	  "información": "In this course I continued with the idea of my “Community” project but adapted it to Desktop. I started from a low definition model, going through medium, until reaching high and in that process I learned to do tests in the early stages of design, and AB tests that helped me in the ideation process. For the first time I made a design using Atomic design to create “responsive” components and discovered tools to document them.",
+	  "informacion": "In this course I continued with the idea of my “Community” project but adapted it to Desktop. I started from a low definition model, going through medium, until reaching high and in that process I learned to do tests in the early stages of design, and AB tests that helped me in the ideation process. For the first time I made a design using Atomic design to create “responsive” components and discovered tools to document them.",
    	 "video": "enlace de la ubicación",
-	 "enlace": "https://www.figma.com/design/ZdBH4avfyBKt0BqBWWXiFv/Community-Evelyn-Fernandez?node-id=0-1&t=POWscGy4kE9oBAkY-1"
+	 "enlace": "https://www.figma.com/design/ZdBH4avfyBKt0BqBWWXiFv/Community-Evelyn-Fernandez?node-id=0-1&t=nl9wAU7CTyAhaBtN-1",
+	 "prototipe":"https://www.figma.com/proto/ZdBH4avfyBKt0BqBWWXiFv/Community-Evelyn-Fernandez?page-id=536%3A1255&node-id=536-1257&node-type=frame&viewport=243%2C681%2C0.02&t=DTp2b76uDoRjh6se-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=536%3A1257"
+	 
 	},
     
-	{"id": 9,
+	{"id": 8,
 	  "nombre": "Garnier redesign",
 	  "curso": "UI",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
-	  "información": "In this course I learned how to build, analyze, maintain and scale a Design System. I applied the Atomic Design methodology to create each of the elements. I created a design system to improve the quality of your product design and made your product ecosystem grow.The page I chose to redesign was Garnier Argentina, and this was the result.",
+	  "informacion": "In this course I learned how to build, analyze, maintain and scale a Design System. I applied the Atomic Design methodology to create each of the elements. I created a design system to improve the quality of your product design and made your product ecosystem grow.The page I chose to redesign was Garnier Argentina, and this was the result.",
    	 "video": "enlace de la ubicación",
-	 "enlace": "https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=12%3A7445&node-id=12-7474&node-type=frame&viewport=483%2C2160%2C0.3&t=qqOzptW4qdLictsf-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=12%3A7474"
-	},
-
-	{ "id": 10,
-	  "nombre": "Product manager",
-	  "curso": "Product manager",
-	  "carrera": "Product design",
-	  "diplomatura": "Coder-House",
-	  "información": "In this course I acquired the skills and abilities necessary to work as a Product Manager. I learned the best practices and tools necessary to create a product using the most commonly used methodologies: Design Thinking, Scrum, UX, Prototyping, Customer Development and measurement through KPIs.",
-   	  "video": "enlace de la ubicación",
-      "enlace": "enlace..."
+	 "enlace": "https://www.figma.com/proto/hBgTMPEU219tmhkbt0vWkS/UI-Evelyn-Fernandez?page-id=615%3A2110&node-id=615-2111&node-type=frame&viewport=328%2C122%2C0.03&t=zG7e2jnS2F5iBq5w-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=615%3A2111",
+	 "prototipe":"https://www.figma.com/proto/2w58tmKXt74tYAABFDaWhX/Documentaci%C3%B3n-%2B-Redise%C3%B1o?page-id=6%3A312&node-id=6-8774&node-type=section&viewport=332%2C445%2C0.05&t=e76ZnuZLXh41nUIn-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A8741"
 	}
+
+	
 	]

@@ -1,11 +1,12 @@
 import React from 'react'
 
+import { Link } from 'react-router-dom';
 export const Card = ({project}) => {
   return (
     <div className='project-home-card' href={'/Project/${project.id}'}>
         
         <div className='project-home-img'> {/* img */}
-            
+         
         </div>
         <div className='project-home-cont-inf '> {/* Info */}
             <div className='project-home-subtitle'>
@@ -36,10 +37,10 @@ export const Card = ({project}) => {
                 </ul>
             </div>
            
-            <div className='see-more-button' href={'/Project/${project.id}'}>
-            <p>
-                See more
-            </p>
+            <div className='see-more-button'>
+            
+                <Link to={`/item/${project.id}`} >See more</Link>
+           
             </div>
            
         </div>

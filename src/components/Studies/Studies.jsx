@@ -17,7 +17,7 @@ export const Studies = () => {
                   </div>{/* Front-end-title */}
                   <div className='my-studies-line'>{/* Line */}
                       <svg xmlns="http://www.w3.org/2000/svg" width="4" height="600" viewBox="0 0 4 600" fill="none">
-                          <path d="M2 0L2 600" stroke="#970E32" stroke-width="3" />
+                          <path d="M2 0L2 600" stroke="#970E32" strokeWidth="3" />
                       </svg>
                   </div>{/* Line-end*/}
                   <div>{/* Info Web development */}
@@ -73,7 +73,7 @@ export const Studies = () => {
                   </div>{/* Front-end-title */}
                   <div className='my-studies-line'>{/* Line */}
                       <svg xmlns="http://www.w3.org/2000/svg" width="4" height="600" viewBox="0 0 4 600" fill="none">
-                          <path d="M2 0L2 600" stroke="#970E32" stroke-width="3" />
+                          <path d="M2 0L2 600" stroke="#970E32" strokeWidth="3" />
                       </svg>
                   </div>{/* Line-end*/}
                   <div>{/* Info Web development */}

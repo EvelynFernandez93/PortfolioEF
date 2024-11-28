@@ -12,7 +12,6 @@ import { AboutMe } from './components/AboutMe/AboutMe';
 import { FrontPage } from './components/FrontPage/FrontPage'; */
 import { Project } from './components/Project/Project';
 import { BrowserRouter, Route, Routes} from  "react-router-dom";
-import { Navbar } from './components/Navbar/Navbar';
 import {Footer} from './components/Footer/Footer';
 import { FrontPage } from './components/FrontPage/FrontPage';
 import { AboutMe } from './components/AboutMe/AboutMe';
@@ -22,14 +21,16 @@ import { ContactPage } from './components/ContactPage/ContactPage';
 function App() {
   return (
     <div >
-      <BrowserRouter>
-        <div className='backgraund'>
-        <Routes>
+      <BrowserRouter >
+        <div className='backgraund '>
+        <Routes >
+          
           <Route path='/' element={<FrontPage />}/>
-          <Route path='/item' element={<ItemDetailContainer itemId={2} />} />
+          <Route path='/item/:id' element={<ItemDetailContainer />} />
           <Route path='/projects' element={<Project />}/>
           <Route path='/about-me' element={<AboutMe />}/>
           <Route path='/contact' element={<ContactPage />}/>
+          
         </Routes>
         <div>
           <Footer />

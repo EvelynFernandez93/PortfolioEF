@@ -5,9 +5,17 @@
 }
 a{
   color: inherit;
-  text-decoration-line: none;
-   list-style-type: none;
+  text-decoration-line:none;
   
+  
+}
+ul {
+  
+  list-style-type:none ;
+   
+}
+.my-router  {
+  list-style-type: none;
 }
 /* Navbar */
 .navbar-contain {
