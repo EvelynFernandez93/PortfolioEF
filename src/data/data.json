@@ -4,6 +4,29 @@
 	  "curso": "Web development",
 	  "carrera": "Front-end developer",
 	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "HTML"
+		},
+		{
+			"tec" : "CSS"
+		},
+		{
+			"tec" : "Saas"
+		},
+		{
+			"tec" : "Bootstrap"
+		},
+		{
+			"tec" : "Node.js"
+		},
+		{
+			"tec" : "JavaScript"
+		},
+		{
+			"tec" : "React"
+		}
+	  ],
 	  "img": "",
 	  "informacion": "qefeqwvgs",
    	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
@@ -14,6 +37,30 @@
 	  "curso": "Web development",
 	  "carrera": "Front-end developer",
 	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "HTML"
+		},
+		{
+			"tec" : "CSS"
+		},
+		{
+			"tec" : "Saas"
+		},
+		{
+			"tec" : "Boostrap"
+		},
+		{
+			"tec" : "Node.js"
+		},
+		{
+			"tec" : "JavaScript"
+		},
+		{
+			"tec" : "React"
+		}
+
+	  ],
 	  "img": "",
 	  "informacion": "I learned how to apply Bootstrap to my projects, and I understood the importance of SEO in my developments. I uploaded my site to a server, and learned how to interact with this service.",
    	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
@@ -24,6 +71,30 @@
 	  "curso": "Java Script",
 	  "carrera": "Front-end developer",
 	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "HTML"
+		},
+		{
+			"tec" : "CSS"
+		},
+		{
+			"tec" : "Saas"
+		},
+		{
+			"tec" : "Boostrap"
+		},
+		{
+			"tec" : "Node.js"
+		},
+		{
+			"tec" : "JavaScript"
+		},
+		{
+			"tec" : "React"
+		}
+
+	  ],
 	  "informacion": "qefeqwvgs",
    	 "video": "enlace de la ubicación",
 	 "enlace": "https://evelynfernandez93.github.io/3PreEntregaFernandezEvelyn/"
@@ -33,6 +104,26 @@
 	  "curso": "React course",
 	  "carrera":"Front-end developer",
 	  "diplomatura": "Coder-House", 
+	  "tecnologias":[
+		{
+			"tec" : "HTML"
+		},
+		{
+			"tec" : "CSS"
+		},
+		{
+			"tec" : "Boostrap"
+		},
+		{
+			"tec" : "Node.js"
+		},
+		{
+			"tec" : "JavaScript"
+		},
+		{
+			"tec" : "React"
+		}
+	  ],
 	  "informacion": "wovbwjvwñonw",
    	  "video": "enlace de la ubicación" ,
 	  "enlace": "http…"
@@ -44,6 +135,12 @@
 	  "curso": "UX - UI Course",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "Figma"
+		}
+
+	  ],
 	  "informacion": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends. This was the result.",
 	 "enlace": "https://www.figma.com/design/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?node-id=0-1&t=gH6RVHyt88aJ565Y-1",
 	 "prototipe": "https://www.figma.com/proto/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?page-id=1%3A9354&node-id=1-10187&node-type=frame&viewport=1359%2C329%2C0.2&t=gRhBJbtPD6DDx4eI-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A10187"
@@ -54,6 +151,12 @@
 	  "curso": "Freelance project",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "Figma"
+		}
+
+	  ],
 	  "informacion": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends.This was the result" ,
    	 "video": "enlace de la ubicación",
 	 "enlace": "https://www.figma.com/design/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?node-id=121-11638&t=B3CdgFVgSlaHlAwo-1",
@@ -64,6 +167,12 @@
 	  "curso": "Prototipe",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "Figma"
+		}
+
+	  ],
 	  "informacion": "In this course I continued with the idea of my “Community” project but adapted it to Desktop. I started from a low definition model, going through medium, until reaching high and in that process I learned to do tests in the early stages of design, and AB tests that helped me in the ideation process. For the first time I made a design using Atomic design to create “responsive” components and discovered tools to document them.",
    	 "video": "enlace de la ubicación",
 	 "enlace": "https://www.figma.com/design/ZdBH4avfyBKt0BqBWWXiFv/Community-Evelyn-Fernandez?node-id=0-1&t=nl9wAU7CTyAhaBtN-1",
@@ -76,6 +185,12 @@
 	  "curso": "UI",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "Figma"
+		}
+
+	  ],
 	  "informacion": "In this course I learned how to build, analyze, maintain and scale a Design System. I applied the Atomic Design methodology to create each of the elements. I created a design system to improve the quality of your product design and made your product ecosystem grow.The page I chose to redesign was Garnier Argentina, and this was the result.",
    	 "video": "enlace de la ubicación",
 	 "enlace": "https://www.figma.com/proto/hBgTMPEU219tmhkbt0vWkS/UI-Evelyn-Fernandez?page-id=615%3A2110&node-id=615-2111&node-type=frame&viewport=328%2C122%2C0.03&t=zG7e2jnS2F5iBq5w-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=615%3A2111",

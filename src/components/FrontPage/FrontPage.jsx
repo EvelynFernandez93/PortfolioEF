@@ -1,6 +1,10 @@
 import React from 'react'
 import { Navbar } from '../Navbar/Navbar'
-import { FaGithub, FaBehance,FaLinkedinIn } from "react-icons/fa6";
+
+import { GitHub } from '../../svg/GitHub';
+import { Behance } from '../../svg/Behance';
+import {  Linkedin } from '../../svg/Linkedin';
+
 
 export const FrontPage = () => {
   return (
@@ -13,9 +17,9 @@ export const FrontPage = () => {
           <h2 className='text-body-500'>Evelyn Fernández</h2>
           <div>
             <ul>
-             <li className='icon '><FaGithub /></li>
-              <li className='icon'><FaBehance /></li>
-              <li className='icon'><FaLinkedinIn /></li>
+             <li className='icon'><Linkedin /></li>
+             <li className='icon '><GitHub/></li>
+             <li className='icon'><Behance /></li>
             </ul>
           </div>
           <div className='front-page-inf text-heading'>
@@ -29,6 +33,7 @@ export const FrontPage = () => {
               </h3>
 
             </div> 
+       
             <div>
               {/* <a>Iconos</a> */}
             </div>

@@ -1,5 +1,13 @@
 import React from 'react'
 import { Navbar } from '../Navbar/Navbar'
+import {HTML} from '../../svg/HTML'
+import { CSS } from '../../svg/CSS'
+import { Bootstrap } from '../../svg/Bootstrap'
+import { SassC } from "../../svg/SassC";
+import { NodeJs } from '../../svg/NodeJs'
+import { ReactJs } from '../../svg/ReactJs'
+import { Figma } from '../../svg/Figma'
+import {JavaScript } from '../../svg/JavaScript'
 
 
 export const ItemDetail = ( {item}) => {
@@ -11,7 +19,7 @@ export const ItemDetail = ( {item}) => {
             </div>
             <div className='detail-project-container'>
                 <div className='detail-project-number'> {/* project number */}
-                    <p>
+                    <p >
                        Project {item.id} / Information
                     </p>
                 </div>  
@@ -38,16 +46,16 @@ export const ItemDetail = ( {item}) => {
                             </p>
                         </div>
                         <div > {/* buttons */}
-                            <ul className='project-buttons-container' >
-                                <li className='project-buttons'>HTML</li>
-                                <li className='project-buttons'>CSS</li>
-                                <li className='project-buttons'>Boostrap</li>
-                                <li className='project-buttons'>Saas</li>
-                                <li className='project-buttons'>Node.js</li>
-                                <li className='project-buttons'>Java Script</li>
-                                <li className='project-buttons'>React</li>
-                                <li className='project-buttons'>Figma</li>
-                            </ul>
+                        <ul className='project-buttons-container' >
+                            <li className='project-buttons'><HTML />HTML</li>
+                            <li className='project-buttons'><CSS />CSS</li>
+                            <li className='project-buttons'><Bootstrap />Bootstrap</li>
+                            <li className='project-buttons'><SassC />Sass</li>
+                            <li className='project-buttons'><NodeJs />Node.js</li>
+                            <li className='project-buttons'><JavaScript />Java Script</li>
+                            <li className='project-buttons'><ReactJs />React</li>
+                            <li className='project-buttons'><Figma />Figma</li>
+                        </ul>
                         </div>
                         <div className='detail-project-buttons ' href={'/Project/${project.id}'}>
                             <div className='detail-button see-more-button '>

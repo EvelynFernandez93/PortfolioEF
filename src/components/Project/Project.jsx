@@ -22,7 +22,7 @@ export const Project = () => {
                 <div className='navbar-contain'>
                     <Navbar />
                 </div>
-                <div className='.project-cards'>
+                <div className='project-home-container'>
                     <div className=' card'>
                         
                         <CardProjects projects={projects}/>

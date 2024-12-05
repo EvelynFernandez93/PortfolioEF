@@ -1,5 +1,9 @@
 import React from 'react'
-import { FaGithub, FaBehance,FaLinkedinIn } from "react-icons/fa6";
+import {Facebook} from '../../svg/Facebook'
+import { Behance } from '../../svg/Behance'
+import { Gmail } from '../../svg/Gmail'
+import { Linkedin } from '../../svg/Linkedin'
+
 export const Footer = () => {
   return (
     <div>
@@ -11,9 +15,10 @@ export const Footer = () => {
          </div>
          <div > {/* icons */}
             <ul>
-             <li className='footer-icons'><FaGithub /></li>
-              <li className='footer-icons'><FaBehance /></li>
-              <li className='footer-icons'><FaLinkedinIn /></li>
+             <li className='footer-icons'><Facebook /></li>
+              <li className='footer-icons'><Behance /></li>
+              <li className='footer-icons'><Linkedin /></li>
+              <li className='footer-icons'><Gmail /></li>
             </ul>
           
          </div>
