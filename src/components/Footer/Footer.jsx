@@ -1,8 +1,9 @@
 import React from 'react'
-import {Facebook} from '../../svg/Facebook'
+
 import { Behance } from '../../svg/Behance'
-import { Gmail } from '../../svg/Gmail'
 import { Linkedin } from '../../svg/Linkedin'
+import { Link } from 'react-router-dom'
+import { GitHub } from '../../svg/GitHub'
 
 export const Footer = () => {
   return (
@@ -14,11 +15,10 @@ export const Footer = () => {
             </p>
          </div>
          <div > {/* icons */}
-            <ul>
-             <li className='footer-icons'><Facebook /></li>
-              <li className='footer-icons'><Behance /></li>
-              <li className='footer-icons'><Linkedin /></li>
-              <li className='footer-icons'><Gmail /></li>
+            <ul className='footer-icons'>
+             <li className='f_icon'><Link to={"https://github.com/EvelynFernandez93"}  target="_blank"><GitHub /></Link></li>
+              <li className='f_icon'><Link to={"https://www.behance.net/evelynfernandez11"}  target="_blank"><Behance /></Link></li>
+              <li className='f_icon'><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>
             </ul>
           
          </div>

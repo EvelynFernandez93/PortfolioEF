@@ -4,6 +4,7 @@ import { Navbar } from '../Navbar/Navbar'
 import { GitHub } from '../../svg/GitHub';
 import { Behance } from '../../svg/Behance';
 import {  Linkedin } from '../../svg/Linkedin';
+import { Link } from 'react-router-dom';
 
 
 export const FrontPage = () => {
@@ -16,10 +17,10 @@ export const FrontPage = () => {
         <div className='front-page backgraund'>
           <h2 className='text-body-500'>Evelyn Fernández</h2>
           <div>
-            <ul>
-             <li className='icon'><Linkedin /></li>
-             <li className='icon '><GitHub/></li>
-             <li className='icon'><Behance /></li>
+            <ul className='backgraund-icon' >
+             <li className='icon'><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/ "}  target="_blank" ><Linkedin /></Link></li>
+             <li className='icon '><Link to={"https://github.com/EvelynFernandez93"}  target="_blank"><GitHub/></Link></li>
+             <li className='icon'><Link to={"https://www.behance.net/evelynfernandez11"}  target="_blank"><Behance /></Link></li>
             </ul>
           </div>
           <div className='front-page-inf text-heading'>

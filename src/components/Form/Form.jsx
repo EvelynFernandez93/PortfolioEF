@@ -44,7 +44,7 @@ export const Form = () => {
                     </p>
                 </div>
             </div>
-            <div>{/* Message */}
+            <div className='button'>{/* Message */}
                 <div className='form-button '>{/*  button */}
                     <p className='form-button-text'>
                         Send

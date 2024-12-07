@@ -1,8 +1,12 @@
 import React from 'react'
 import { Navbar } from '../Navbar/Navbar'
-import { Footer } from '../Footer/Footer'
+
 import { Form } from '../Form/Form'
-import { FaFacebookF,FaInstagram, FaLinkedinIn } from "react-icons/fa";
+import { Link } from 'react-router-dom'
+import {Facebook } from '../../svg/Facebook'
+import { Instagram } from '../../svg/Instagram'
+import { Linkedin } from '../../svg/Linkedin'
+
 export const ContactPage = () => {
   return (
     <div >
@@ -33,10 +37,10 @@ export const ContactPage = () => {
                             </div>
                         </div>
                         <div> {/* social icons */}
-                            <ul>
-                                <li className='icon '><FaFacebookF /></li>
-                                <li className='icon'><FaInstagram /></li>
-                                <li className='icon'><FaLinkedinIn /></li>
+                            <ul className='footer-icons'>
+                                <li className='f_icon'><Link to={"https://www.facebook.com/evelynfernandez.lpc/"}  target="_blank"><Facebook /></Link></li>
+                                <li className='f_icon'><Link to={"https://www.instagram.com/enfernandezz/"}  target="_blank"><Instagram /></Link></li>
+                                <li className='f_icon'><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>
                             </ul>
                         </div>
                     
@@ -48,9 +52,7 @@ export const ContactPage = () => {
                 
                 
             </div>
-            {/* <div>
-                <Footer />
-            </div> */}
+            
         </div>
     </div>
   )
