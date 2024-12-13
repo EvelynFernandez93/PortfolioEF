@@ -6,12 +6,13 @@ import { Behance } from '../../svg/Behance';
 import {  Linkedin } from '../../svg/Linkedin';
 import { Link } from 'react-router-dom';
 import img from '../../assets/Img'
+import { AboutMe } from '../AboutMe/AboutMe';
 
 
 export const FrontPage = () => {
   return (
-    <div  >
-      <div className='front-page
+    <div className=' ' >
+      <div className='front-page background
     '> {/* FRONT-PAGE */}
         <div className='navbar-contain '>
           <Navbar />
@@ -33,9 +34,7 @@ export const FrontPage = () => {
            <p>Front-end developer </p> 
            <p>UX-UI design</p>
           </div> 
-          
-        </div>
-        </div>
+          </div>
           <div>  {/* TOOLTIPS */} 
             <div className='tools-contain' >
               <h3 className='tool-p'>
@@ -56,7 +55,12 @@ export const FrontPage = () => {
        
             <div>
         </div>
+        </div>
+       
       </div>{/* END-FRONT-PAGE */}
+      <div>
+        <AboutMe />
+      </div>
     </div>
   )
 }

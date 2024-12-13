@@ -22,17 +22,17 @@ function App() {
   return (
     <div >
       <BrowserRouter >
-        <div className='backgraund '>
-        <Routes >
+        <div >
+        <Routes className='backgraund '>
           
           <Route path='/' element={<FrontPage />}/>
           <Route path='/item/:id' element={<ItemDetailContainer />} />
           <Route path='/projects' element={<Project />}/>
-          <Route path='/about-me' element={<AboutMe />}/>
           <Route path='/contact' element={<ContactPage />}/>
           
         </Routes>
         <div>
+          {/* <AboutMe /> */}
           <Footer />
         </div>
         </div>

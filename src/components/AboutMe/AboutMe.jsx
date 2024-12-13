@@ -5,11 +5,11 @@ import { Navbar } from '../Navbar/Navbar';
 export const AboutMe = () => {
   return (
     <div >
-      <div className='project-page-background'>
+     {/*  <div className='project-page-background'>
         <div className='navbar-contain'>
             <Navbar />
       </div>
-      </div>
+      </div> */}
     
       <div className='about-me-contain'>  {/* ABOUT-ME */}
           <div className='about-me-img'> {/* Imagen */}

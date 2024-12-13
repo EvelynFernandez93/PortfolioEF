@@ -12,12 +12,12 @@ export const Studies = () => {
 
               <div className='my-studies-front'> {/* frontend */}
                   <div className='my-studies-title1'>{/* Front-end-title */}
-                      <p>Front-end</p>
+                      <p>Front-end dev</p>
 
                   </div>{/* Front-end-title */}
                   <div className='my-studies-line'>{/* Line */}
                       <svg xmlns="http://www.w3.org/2000/svg" width="4" height="600" viewBox="0 0 4 600" fill="none">
-                          <path d="M2 0L2 600" stroke="#970E32" strokeWidth="3" />
+                          <path d="M2 0L2 600" stroke="#970E32" strokeWidth="3" className='line' />
                       </svg>
                   </div>{/* Line-end*/}
                   <div>{/* Info Web development */}
@@ -32,7 +32,7 @@ export const Studies = () => {
                       <div className='my-studies-them'>
                           <ul className='my-studies-li li '>
                               <li> HTML</li>
-                              <li>CSS: Box modeling, Flexbox, Grids. GIT, Media queries</li>
+                              <li>CSS: Box modeling, Flexbox, Media queries</li>
                               <li>SASS</li>
                               <li>Bootstrap</li>
                               <li>Java Script</li>
@@ -73,7 +73,7 @@ export const Studies = () => {
                   </div>{/* Front-end-title */}
                   <div className='my-studies-line'>{/* Line */}
                       <svg xmlns="http://www.w3.org/2000/svg" width="4" height="600" viewBox="0 0 4 600" fill="none">
-                          <path d="M2 0L2 600" stroke="#970E32" strokeWidth="3" />
+                          <path d="M2 0L2 600" stroke="#970E32" strokeWidth="3" className='line' />
                       </svg>
                   </div>{/* Line-end*/}
                   <div>{/* Info Web development */}
