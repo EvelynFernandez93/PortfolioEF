@@ -16,7 +16,7 @@ export const ContactPage = () => {
                     <Navbar />
                 </div>
                 <div className='contact-page'>
-                    <div className='backgraund-color-page'>
+                    <div className='background-color-page'>
                         <div >{/* Information */}
                             <div className='contact-information '> {/* inf */}
                                 <div>

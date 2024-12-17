@@ -24,7 +24,7 @@ export const FrontPage = () => {
           
           
           <div>
-            <ul className='backgraund-icon' >
+            <ul className='background-icon' >
              <li className='f_icon '><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/ "}  target="_blank" ><Linkedin /></Link></li>
              <li className='f_icon '><Link to={"https://github.com/EvelynFernandez93"}  target="_blank"><GitHub/></Link></li>
              <li className='f_icon '><Link to={"https://www.behance.net/evelynfernandez11"}  target="_blank"><Behance /></Link></li>
