@@ -25,9 +25,9 @@ export const FrontPage = () => {
           
           <div>
             <ul className='backgraund-icon' >
-             <li className='icon'><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/ "}  target="_blank" ><Linkedin /></Link></li>
-             <li className='icon '><Link to={"https://github.com/EvelynFernandez93"}  target="_blank"><GitHub/></Link></li>
-             <li className='icon'><Link to={"https://www.behance.net/evelynfernandez11"}  target="_blank"><Behance /></Link></li>
+             <li className='f_icon '><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/ "}  target="_blank" ><Linkedin /></Link></li>
+             <li className='f_icon '><Link to={"https://github.com/EvelynFernandez93"}  target="_blank"><GitHub/></Link></li>
+             <li className='f_icon '><Link to={"https://www.behance.net/evelynfernandez11"}  target="_blank"><Behance /></Link></li>
             </ul>
           </div>
           <div className='front-page-inf text-heading'>
@@ -50,13 +50,10 @@ export const FrontPage = () => {
                 <img src={ img[6]} alt="Icono Java Script"  className='img-icon'/>
                 <img src={ img[7]} alt="Icono Figma"className='img-icon' />
               </div>
-
             </div> 
-       
-            <div>
+          <div>
         </div>
         </div>
-       
       </div>{/* END-FRONT-PAGE */}
       <div>
         <AboutMe />

@@ -14,9 +14,9 @@ export const Footer = () => {
             </p>
          </div>
          <div > {/* icons */}
-            <ul className='footer-icons'>
-              <li className='f_icon'><Link to={'mailto:endeveloper1@gmail.com'} target="_blank"><Gmail /></Link></li>
-              <li className='f_icon'><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>
+            <ul className='footer-icons '>
+              <li className='f_icon '><Link to={'mailto:endeveloper1@gmail.com'}  target="_blank"><Gmail  /></Link></li>
+              <li className='f_icon '><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>
             </ul>
           
          </div>

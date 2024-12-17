@@ -14,7 +14,7 @@ export const Card = ({project}) => {
     <div className='project-home-card' href={'/Project/${project.id}'}>
         
         <div className='project-home-img'> {/* img */}
-         
+         <img src='{project.img}'></img>
         </div>
         <div className='project-home-cont-inf '> {/* Info */}
             <div className='project-home-subtitle'>

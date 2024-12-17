@@ -3,9 +3,9 @@ import { Navbar } from '../Navbar/Navbar'
 
 import { Form } from '../Form/Form'
 import { Link } from 'react-router-dom'
-import {Facebook } from '../../svg/Facebook'
 import { Instagram } from '../../svg/Instagram'
 import { Linkedin } from '../../svg/Linkedin'
+import { Gmail } from '../../svg/Gmail'
 
 export const ContactPage = () => {
   return (
@@ -40,7 +40,7 @@ export const ContactPage = () => {
                         </div>
                         <div> {/* social icons */}
                             <ul className='footer-icons'>
-                                <li className='f_icon'><Link to={"https://www.facebook.com/evelynfernandez.lpc/"}  target="_blank"><Facebook /></Link></li>
+                                <li className='f_icon'><Link to={'mailto:endeveloper1@gmail.com'}  target="_blank"><Gmail /></Link></li>
                                 <li className='f_icon'><Link to={"https://www.instagram.com/enfernandezz/"}  target="_blank"><Instagram /></Link></li>
                                 <li className='f_icon'><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>
                             </ul>

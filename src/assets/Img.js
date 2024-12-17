@@ -7,7 +7,9 @@ import  Bootstrap  from '../assets/Bootstrap.png'
 import Node from '../assets/Node.js.png'
 import Js from '../assets/js.png'
 import Figma from '../assets/Figma.png'
-
+import Img1 from '../assets/img1.jpg'
+import Img2 from '../assets/img2.png'
+import Img4 from '../assets/img4.png'
 export default [
        HTML5 ,
        CSS3 ,
@@ -17,6 +19,9 @@ export default [
        Node,
        Js,
        Figma,
+       Img1,
+       Img2,
+       Img4
 
     
 ]

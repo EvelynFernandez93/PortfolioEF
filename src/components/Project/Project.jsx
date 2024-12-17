@@ -25,13 +25,11 @@ export const Project = () => {
                 <div className='projects-org'>
                     <div className='project-home-container'>
                         <div  >
-                        
                              <CardProjects projects={projects} className=' card'/>
                         </div>
                     </div>
                 </div>
             </div>
-          
         </div>
     </div>
   )
