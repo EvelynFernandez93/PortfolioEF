@@ -8,6 +8,7 @@ import { NodeJs } from '../../svg/NodeJs'
 import { ReactJs } from '../../svg/ReactJs'
 import { Figma } from '../../svg/Figma'
 import {JavaScript } from '../../svg/JavaScript'
+import { Link } from 'react-router-dom'
 
 
 
@@ -55,8 +56,11 @@ export const ItemDetail = ( {item}) => {
                     <p >
                        Project {item.id} / Information
                     </p>
-                </div>  
-                <div>{/*  Card */}
+                </div> 
+            </div>
+            <div className='detail-project-container '>
+                 
+                <div className='project-home-con'>{/*  Card */}
                     <div className='detail-project-card background-color-page' href={'/Project/${project.id}'}>
         
                          <div /* className='project-home-img' */> {/* img */}<img src={imagen} alt={item.nombre} className='project-home-img'/>
@@ -92,27 +96,27 @@ export const ItemDetail = ( {item}) => {
                           {/*   <li className='project-buttons'>{tecnologias}</li> */}
                           {tecnologias}
                         </ul>
+                        
                         </div>
-                        <div className='detail-project-buttons ' href={'/Project/${project.id}'}>
-                            <div className='detail-button see-more-button '>
-                                <p>
-                                    See figma project
-                                </p>  
+                        <div className='detail-project-buttons ' >
+                            <div className='detail-button see-more-button  ' href={item.proyecto}>
+                                <Link to={item.proyecto} target="_blank" >
+                                    See project
+                                </Link>  
                             </div>
                             <div className='detail-button see-more-button'>
-                                <p>
+                                <Link to={item.prototipo} target="_blank" >
                                     See prototipe
-                                </p>
+                                </Link>
                             </div>
+                            
                            
                     </div>
-           
-                        
-           
                 </div>
+                
             </div>
                 </div>
-                <div className='detail-project-information background-color-page '> {/* course detail */}
+                <div className='detail-project-information '> {/* course detail */}
                     <p>
                     {item.informacion}
                     </p>

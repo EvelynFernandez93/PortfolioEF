@@ -425,6 +425,14 @@ align-self: center;
 gap:32px
 
 }
+.project-home-con{
+  
+  flex-direction:column;
+  align-items: center;
+  align-self: center;
+ 
+  
+  }
 
 .project-home-cont-inf {
   padding: 0px 18px;
@@ -534,7 +542,7 @@ line-height: 18px; /* 112.5% */
 .footer-container{
 display: flex;
 width: 100%;
-height: 182px;
+height: max-content;
 padding: 32px 168px;
 flex-direction: column;
 align-items: center;
@@ -620,7 +628,7 @@ align-items: center;
 
 .contact-page{
   width: 100%;
-height: 100vh;
+height: max-content;
 flex-shrink: 0;
 display: inline-flex;
 align-items: flex-start;
@@ -779,18 +787,17 @@ line-height: 140%;
 
 .detail-project-container {
   display: flex;
-  
   width: 100%;
   height: auto;
   padding: 16px 32px;
   flex-direction: column;
   align-items: flex-start;
-  gap: 52px;
+  
 }
 .detail-project-number {
  
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   align-self: stretch;
   padding: 0px 0px 0px 16px;
 
@@ -803,29 +810,40 @@ font-weight: 500;
 line-height: 28px; /* 125% */
 
 }
+
 .detail-project-card {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 18px;
-  
+  align-self: center; 
   margin: 16px; 
-  
 }
+
 .detail-project-information {
-  align-self: stretch;
   color: #E3B5C1;
+  width: 698px;
 font-family: Inter;
 font-size: 16px;
 font-style: normal;
 font-weight: 200;
 line-height: 32px; /* 127.273% */
-margin: 16px;
-padding: 0px 0px 0px 16px;
+border-radius: 8px;
+padding: 16px 32px;
 background: rgba(0, 0, 0, 0.80);
+display: flex;
+align-self: center;
+  
+
+height: auto;
+padding: 16px 32px;
+flex-direction: column;
+align-items: flex-start;
+gap: 52px;
 }
 .detail-project-buttons {
  
   display: flex;
+  
   align-items: center;
   gap: 32px;
 
