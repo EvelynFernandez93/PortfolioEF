@@ -29,7 +29,7 @@
 		}
 	  ],
 	  "img": "img1.jpg",
-	  "informacion": "qefeqwvgs",
+	  "informacion": "I immersed myself in an intensive web programming course, where I acquired solid skills in developing responsive and attractive websites. I learned to master key technologies such as HTML, CSS, and SASS, and to apply them in creating effective web designs. My experience in the course also enabled me to develop skills in using tools like Flexbox, Grids, and Bootstrap, which facilitated the creation of complex and responsive layouts. Additionally, I learned to manipulate pseudo-classes and create dynamic animations that enhance the user experience.A fundamental aspect of my training was the introduction to Git and GitHub, which allowed me to understand the importance of version control and collaboration in web development projects. I also acquired basic knowledge of search engine optimization (SEO) and web security (KYC).",
    	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
 	"proyecto": "https://github.com/EvelynFernandez93/PFFernandezEvelynNahir",
 	"prototipo": "https://evelynfernandez93.github.io/PFFernandezEvelynNahir/"
@@ -64,14 +64,14 @@
 
 	  ],
 	  "img": "img2.png",
-	  "informacion": "I learned how to apply Bootstrap to my projects, and I understood the importance of SEO in my developments. I uploaded my site to a server, and learned how to interact with this service.",
+	  "informacion": "This project is part of the Web Development course, in which I learned to manipulate pseudoclasses and create dynamic animations that improve the user experience. The most important thing is in the code since I used “Sass”, reorganized the “CSS” code and began to apply some Java Script practices.",
    	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
 	 "proyecto": "https://github.com/EvelynFernandez93/2PreEntregaEvelynFernandez",
 	"prototipo": "https://evelynfernandez93.github.io/2PreEntregaEvelynFernandez/"
 
 	},
     { "id": 3,
-	  "nombre": "..",
+	  "nombre": "Diagnovet for desktop 3",
 	  "curso": "Java Script",
 	  "carrera": "Front-end developer",
 	  "diplomatura": "Coder-House",
@@ -100,7 +100,7 @@
 
 	  ],
 	  "img": "img1.jpg",
-	  "informacion": "qefeqwvgs",
+	  "informacion": "I immersed myself in an intensive JavaScript course, where I expanded my programming skills and covered fundamental and advanced topics in the language. Over the course of 9 weeks, I explored and mastered key concepts such as introduction to JavaScript, cycle control, functions, arrays, objects, higher-order functions, DOM manipulation and events, asynchronous HTTP requests, and promises and use of external libraries. This course enabled me to develop solid skills in JavaScript, allowing me to create dynamic and efficient web applications. I learned to control cycles and control structures, create and use functions, manipulate arrays and objects, and apply object-oriented and functional programming concepts. I also acquired knowledge about DOM manipulation and events in the browser, as well as asynchronous HTTP requests. I learned to use promises and external libraries to improve the efficiency and scalability of my applications. In general, this course provided me with a solid foundation in JavaScript and allowed me to develop valuable skills for creating dynamic and efficient web applications.",
    	 "video": "enlace de la ubicación",
 	  "proyecto":  "https://github.com/EvelynFernandez93/3PreEntregaFernandezEvelyn",
 	"prototipo": "https://evelynfernandez93.github.io/3PreEntregaFernandezEvelyn/"
@@ -131,10 +131,10 @@
 		}
 	  ],
 	  "img": "img4.png",
-	  "informacion": "wovbwjvwñonw",
+	  "informacion": "I immersed myself in a specialized React Js course, where I acquired solid knowledge in creating dynamic and scalable web applications. Throughout the course, I explored fundamental and advanced topics in React Js, including setup of the development environment, introduction to JSX, creation and manipulation of components, consumption of APIs, routing, navigation, and events, rendering techniques, and context management using Context API, as well as integration with Firebase for real-time databases. I developed valuable skills in creating reusable components, managing states and props, and implementing design patterns such as Hooks and Children. I also learned to consume APIs and integrate external libraries to enhance the functionality of my applications. Additionally, I acquired knowledge of rendering techniques and context management, which enabled me to create more efficient and scalable web applications. Integration with Firebase provided me with the opportunity to create real-time web applications, enhancing the user experience. Overall, this course provided me with a solid foundation in React Js and allowed me to develop valuable skills for creating modern and scalable web applications.The final result is an E-commerce I hope you like it!",
    	  "video": "enlace de la ubicación" ,
-	   "proyecto":  "https://github.com/EvelynFernandez93/ReactPreEntrega1EvelynFernandez",
-	"prototipo": ""
+	   "proyecto":  "https://github.com/EvelynFernandez93/PreEntrega1EvelynFernandezReact",
+	"prototipo": "https://youtu.be/69jClpqL_uQ"
 	},
 	
 	
@@ -150,7 +150,7 @@
 
 	  ],
 	  "img": "img5.png",
-	  "informacion": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends. This was the result.",
+	  "informacion": "This course focused on learning to use different research tools under the 'Design Thinking' method. We understood the terms Mission, Vision, and Purpose of a company, developing a Point of View (POV) and, based on the collected data and its analysis, we designed an application to solve the problem. We worked user-centered, using standardized techniques to define 'User Personas,' generate an empathy map, and finally find a solution with a Minimum Viable Product (MVP).This course aimed to help us understand the different stages for 'ideating' an application, from low-fidelity wireframes to high-fidelity prototypes. I also performed Card Sorting and Dendrograms to determine the adequate information structure. I used Taskflow and Userflow to define the various tasks encompassed by the app.The color selection respected the WCAG 2.0 guidelines (Web Content Accessibility Guidelines), and we used 'Adobe Color' to verify that the color relationship between text and background was optimal. We created a logo for the product and finally conducted a Heuristic Evaluation, Executive Summary, and Efficacy Metrics.The final product was well-received by the evaluating team, who were very satisfied with the research process but not as much with the final design, as it was not aligned with the latest trends. That's why, in my next project, you'll find a redesign of my 'Community for Mobile' project.",
 	 "proyecto": "https://www.figma.com/proto/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?page-id=1%3A13144&node-id=42-9249&viewport=-577%2C9102%2C0.38&t=02vFfItNAYIy2qig-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=42%3A9249",
 	 "prototipo": "https://www.figma.com/proto/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?page-id=1%3A9354&node-id=1-10187&viewport=2039%2C455%2C0.3&t=rhtsq7BT5LULIoaL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A10187"
 	  
@@ -167,7 +167,7 @@
 
 	  ],
 	  "img": "img6.png",
-	  "informacion": "After completing my first project, I had a job interview where I received valuable feedback. On one hand, I was congratulated for the research work done on the app. On the other hand, I was advised to change the design as it was outdated and to redesign it based on the latest trends.This was the result" ,
+	  "informacion": "Community for Mobile' was a project that stood out for its innovative proposal, its 'Research' and 'Ideation' process received excellent reviews, but its design didn't quite meet expectations. That's why, based on the feedback received, we decided to redesign the application. We generated a design aligned with the latest trends, while respecting the information architecture, but with a focus on current design patterns. I hope you enjoy the result!" ,
    	 "video": "enlace de la ubicación",
 	 "proyecto": "https://www.figma.com/proto/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?page-id=166%3A8067&node-id=166-8068&p=f&viewport=-101%2C-6870%2C1.09&t=LUjO1bEjwt8L4Vfr-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=166%3A8068",
 	 "prototipo": "https://www.figma.com/proto/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?page-id=153%3A20557&node-id=153-20785&viewport=473%2C314%2C0.05&t=7stEoIInzpOwiaOB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=153%3A20785"
@@ -184,10 +184,10 @@
 
 	  ],
 	  "img": "img7.png",
-	  "informacion": "In this course I continued with the idea of my “Community” project but adapted it to Desktop. I started from a low definition model, going through medium, until reaching high and in that process I learned to do tests in the early stages of design, and AB tests that helped me in the ideation process. For the first time I made a design using Atomic design to create “responsive” components and discovered tools to document them.",
+	  "informacion": "The objectives of this course were to develop a web page, which is why we sought to raise the stakes of 'Community for Mobile' and take the project to the next level. We designed a desktop version, reusing valuable information from 'Community for Mobile.' To adapt the design for desktop, we created a low-fidelity prototype, which we tested using 'Maze' to gather usability test. With the collected data, we made the necessary changes. We also conducted A/B testing to choose the most attractive designs for the user.One of the most significant lessons from this course was learning to generate variants for different elements, such as 'Buttons' and 'Cards,' and making them responsive. I hope you enjoy this new proposal!",
    	 "video": "enlace de la ubicación",
-	  "proyecto":  "https://www.figma.com/design/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?node-id=12-7474&t=053p0rXojRLgHwo9-1",	 
-	 "prototipo":"https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=0%3A1&node-id=1-1480&viewport=375%2C325%2C0.03&t=PbUsPttjyAAtD9JF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A1480"
+	  "proyecto":  "https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=12%3A7445&node-id=12-7474&viewport=405%2C376%2C0.04&t=HYHHjjL1kbFcwHNn-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=12%3A7474",	 
+	 "prototipo":"https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=0%3A1&node-id=1-1480&node-type=CANVAS&viewport=510%2C816%2C0.18&t=sSU5wHX6KTcmrms0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A1480"
 	 
 	},
     

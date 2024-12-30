@@ -36,7 +36,7 @@ export const Card = ({project}) => {
     
 
   return (
-    <div className='project-home-card' href={'/Project/${project.id}'}>
+    <div className='project-home-card ' href={'/Project/${project.id}'}>
         
         <div > {/* img */}
         <img src={imagen} alt={project.nombre} className='project-home-img'/>

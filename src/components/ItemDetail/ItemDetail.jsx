@@ -106,7 +106,7 @@ export const ItemDetail = ( {item}) => {
                             </div>
                             <div className='detail-button see-more-button'>
                                 <Link to={item.prototipo} target="_blank" >
-                                    See prototipe
+                                    See prototype
                                 </Link>
                             </div>
                             

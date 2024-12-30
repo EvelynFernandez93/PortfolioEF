@@ -237,10 +237,10 @@ box-shadow: 0px 4px 10.7px 0px rgba(238, 176, 192, 0.25);
 
 
 .about-me-img {
-border-radius: 110.182px;
-background: url(../public/img/profile.png) lightgray 50% / cover no-repeat;
-  width: 222px;
-height: 313px;
+border-radius: 12px;
+background: url(../public/img/profile.jpg) lightgray 50% / cover no-repeat;
+  width: 250px;
+height: 373px;
 flex-shrink: 0;
 }
 
@@ -536,7 +536,13 @@ font-size: 14px;
 font-style: normal;
 font-weight: 300;
 line-height: 18px; /* 112.5% */
+}
 
+
+.see-more-button:hover {
+  color:#FFF;
+  font-weight: 300;
+  border-bottom: 1px solid #FFF;
 }
 
 .footer-container{
