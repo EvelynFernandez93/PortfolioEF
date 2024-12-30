@@ -27,10 +27,10 @@ export const ContactPage = () => {
                                     I hope you liked my Portfolio
                                     </p>
                                     <p className='p-distance'>
-                                    For recommendations or to contact me, I leave you my form and I will be happy to read you
+                                    For recommendations or to contact me, you can click on the gmail icon
                                     </p>
                                     <p className='p-distance'>
-                                    You can also contact me by email endeveloper1@gmail.com 
+                                    You can also contact me by writing a message to endeveloper1@gmail.com. I will be happy to read you!
                                     </p>
                                     <p className='p-distance'>
                                     Or through my networks.
@@ -47,9 +47,9 @@ export const ContactPage = () => {
                         </div>
                     
                     </div>
-                    <div> 
+                    {/* <div> 
                         <Form />
-                    </div>
+                    </div> */}
                 
                 
             </div>
