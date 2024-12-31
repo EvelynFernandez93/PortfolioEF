@@ -9,9 +9,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "vercel build && vercel deploy"
-
   },
-  
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -34,13 +32,11 @@
     ]
   },
   "vercel": {
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build"
-    }
-  ]
-}
-
-
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/static-build"
+      }
+    ]
+  }
 }
