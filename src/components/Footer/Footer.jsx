@@ -3,6 +3,7 @@ import React from 'react'
 import { Gmail } from '../../svg/Gmail'
 import { Linkedin } from '../../svg/Linkedin'
 import { Link } from 'react-router-dom'
+import { Cv } from '../../svg/Cv'
 
 export const Footer = () => {
   return (
@@ -16,7 +17,8 @@ export const Footer = () => {
          <div > {/* icons */}
             <ul className='footer-icons '>
               <li className='f_icon '><Link to={'mailto:endeveloper1@gmail.com'}  target="_blank"><Gmail  /></Link></li>
-              <li className='f_icon '><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>
+              <li className='f_icon '><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>{/*  <Link  to={"../../../public/CVEvelynFernandez.pdf"}  ><Cv /></Link>  */}
+
             </ul>
           
          </div>

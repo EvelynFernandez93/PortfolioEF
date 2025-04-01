@@ -207,6 +207,23 @@
    	 "video": "enlace de la ubicación",
 	 "proyecto":  "https://www.figma.com/proto/hBgTMPEU219tmhkbt0vWkS/UI-Evelyn-Fernandez?page-id=615%3A2110&node-id=615-2111&viewport=277%2C758%2C0.24&t=622QXMZwQTN9vTy2-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=615%3A2111",	 
 	 "prototipo":"https://www.figma.com/proto/2w58tmKXt74tYAABFDaWhX/Documentaci%C3%B3n-%2B-Redise%C3%B1o?page-id=6%3A312&node-id=6-8741&node-type=frame&viewport=823%2C-227%2C0.1&t=gb5eVL6XfBGtAEwP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A8741"
+	},
+	{"id": 9,
+	  "nombre": "All service",
+	  "curso": "Product manager",
+	  "carrera": "Product design",
+	  "diplomatura": "Coder-House",
+	  "tecnologias":[
+		{
+			"tec" : "Figma"
+		}
+
+	  ],
+	  "img": "img9.png",
+	  "informacion": "With this course, I completed my training as a Product Designer, deepening my knowledge in Design Thinking, UX, Prototyping, and Scrum. Additionally, I learned how different teams collaborate to create a user-centered product, using metrics and KPIs to measure and optimize the process.",
+   	 "video": "enlace de la ubicación",
+	 "proyecto":  "https://www.figma.com/proto/rAmbwANScTPvCB0NtLqowF/Product-Manager-Evelyn-Fern%C3%A1ndez?node-id=161-2117&p=f&viewport=223%2C-2985%2C0.14&t=4zeNPDJ2JMvW0TSA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=161%3A2131",	 
+	 "prototipo":"https://www.figma.com/proto/rAmbwANScTPvCB0NtLqowF/Product-Manager-Evelyn-Fern%C3%A1ndez?node-id=161-2117&p=f&viewport=223%2C-2985%2C0.14&t=4zeNPDJ2JMvW0TSA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=161%3A2131 "
 	}
 
 	

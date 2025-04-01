@@ -1,5 +1,7 @@
 import React from 'react';
 import "./Navbar" ;
+
+
 /* import {  MdHomeFilled, MdStar, MdLightbulb, MdPeopleAlt } from "react-icons/md"; */
 import { Link } from 'react-router-dom';
 
@@ -22,7 +24,9 @@ export const Navbar = () => {
        {/* <ul className='main-navbar '> */}
       {/*   <li ><Link className='main-icon ' to="/contact"><MdPeopleAlt /></Link></li> */}
         <li><Link className='main-title button' to="/contact">Contact</Link></li>
+        
        </ul>
+       
       {/*   <li className='main-title  main-icon button' >Projects</li>
         <li className='main-title  main-icon button'>Contact</li>
        </ul> */}
