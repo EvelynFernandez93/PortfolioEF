@@ -22,9 +22,6 @@ export const Studies = () => {
                   </div>{/* Line-end*/}
                   <div>{/* Info Web development */}
                       <div className='my-studies-year-and-title'>
-                          <p className='my-studies-year'>
-                              2022 | August
-                          </p>
                           <p className='my-studies-title'>
                               WEB DEVELOPMENT
                           </p>
@@ -42,9 +39,6 @@ export const Studies = () => {
                       </div>
                       <div>
                           <div className='my-studies-year-and-title'>
-                              <p className='my-studies-year'>
-                                  2023 | January
-                              </p>
                               <p className='my-studies-title'>
                                   JAVA SCRIPT
                               </p>
@@ -52,9 +46,6 @@ export const Studies = () => {
                       </div>
                       <div>
                           <div className='my-studies-year-and-title'>
-                              <p className='my-studies-year'>
-                                  2023 | July
-                              </p>
                               <p className='my-studies-title'>
                                   REACT
                               </p>
@@ -78,9 +69,6 @@ export const Studies = () => {
                   </div>{/* Line-end*/}
                   <div>{/* Info Web development */}
                       <div className='my-studies-year-and-title'>
-                          <p className='my-studies-year'>
-                              2024 | Febrary
-                          </p>
                           <p className='my-studies-title'>
                               UX - UI
                           </p>
@@ -98,9 +86,6 @@ export const Studies = () => {
                       </div>
                       <div>
                           <div className='my-studies-year-and-title'>
-                              <p className='my-studies-year'>
-                                  2024 | June
-                              </p>
                               <p className='my-studies-title'>
                                   PROTOTIPE
                               </p>
@@ -108,9 +93,6 @@ export const Studies = () => {
                       </div>
                       <div>
                           <div className='my-studies-year-and-title'>
-                              <p className='my-studies-year'>
-                                  2024 | September
-                              </p>
                               <p className='my-studies-title'>
                                   UI
                               </p>
@@ -118,9 +100,6 @@ export const Studies = () => {
                       </div>
                       <div>
                           <div className='my-studies-year-and-title'>
-                              <p className='my-studies-year'>
-                                  2024 | November
-                              </p>
                               <p className='my-studies-title'>
                                   PRODUCT MANAGER
                               </p>
