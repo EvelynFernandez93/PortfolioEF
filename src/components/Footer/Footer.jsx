@@ -20,10 +20,10 @@ export const Footer = () => {
               </Link>
             </li> */}
             <li className='footer-redes' >
-            <Link to={"https://www.instagram.com/enfernandezz/"} target="_blank">
+            <Link to={"https://www.instagram.com/entrecerrosdesign?igsh=eXFleWx3eGg1ZzRm"} target="_blank">
                     <Instagram />
             </Link>
-            <Link to={"https://www.instagram.com/enfernandezz/"} target="_blank">
+            <Link to={"https://www.facebook.com/profile.php?id=61578417668247"} target="_blank">
                     <Facebook />
             </Link>
             </li>
