@@ -1,36 +1,42 @@
- import React , { useState,useEffect }from 'react'
-import { Navbar } from '../Navbar/Navbar'
-import { CardProjects } from '../CardProjects/CardProjects' 
-
-import {pedirDatos} from "../../helpers/pedirDatos";
+import React, { useEffect, useState } from 'react';
+import { Navbar } from '../Navbar/Navbar';
+import { CardProjects } from '../CardProjects/CardProject.jsx';
+import { pedirDatos } from '../../helpers/pedirDatos';
+import { Spinner } from "../Spinner/Spinner.jsx"; // loader visual
 
 export const Project = () => {
+  const [projects, setProjects] = useState([]);
+  const [loading, setLoading] = useState(true);
 
-    const [projects, setProjects] = useState([]);
-    console.log (projects)
-    useEffect(() => {
-      pedirDatos ()
-        .then ((res)=> {
-            setProjects (res)
-        })
-    }, [])
+  useEffect(() => {
+    const cachedProjects = localStorage.getItem('projects');
+
+    if (cachedProjects) {
+      setProjects(JSON.parse(cachedProjects));
+      setLoading(false);
+    }
+
+    pedirDatos().then((res) => {
+      setProjects(res);
+      localStorage.setItem('projects', JSON.stringify(res));
+      setLoading(false);
+    });
+  }, []);
 
   return (
-    <div className=''>
-        <div  >
-            <div className='background '>{/* Background */}
-                <div className='navbar-contain'>
-                    <Navbar />
-                </div>
-                <div className='projects-org'>
-                    <div className='project-home-container'>
-                        <div  >
-                             <CardProjects projects={projects} className=' card'/>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    <div>
+      <div className='navbar-contain'>
+        <Navbar />
+      </div>
+      <div className='all-projects'>
+        <div className='projects-org'>
+          {loading ? (
+            <Spinner />
+          ) : (
+            <CardProjects projects={projects} />
+          )}
         </div>
+      </div>
     </div>
-  )
-}
+  );
+};

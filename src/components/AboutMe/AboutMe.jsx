@@ -1,23 +1,22 @@
 import React from 'react'
 import {Studies} from '../Studies/Studies';
+import { Carousel } from '../Carousel/Carousel';
+import Timeline from '../Timeline/Timeline';
+import { Presentation } from '../Presentation/Presentation';
+import { Navbar } from '../Navbar/Navbar';
+
+
 
 
 export const AboutMe = () => {
   return (
-    <div >
-     {/*  <div className='project-page-background'>
-        <div className='navbar-contain'>
-            <Navbar />
-      </div>
-      </div> */}
     
-      <div className='about-me-contain'>  {/* ABOUT-ME */}
-          <div className='about-me-img'> {/* Imagen */}
-          {/* <a>
-
-          </a> */}
+    
+     
+   /*        <div className='about-me-img'> 
+          
           </div>
-          <div className='about-me-text'> {/* information */}
+          <div className='about-me-text'>
             <div className='about-me-p'>
               <p>
               As a freelance UX/UI Designer from Mendoza, Argentina, I bring creativity and technical expertise to the table. With 2 years of experience, a strong foundation in Front-end development, and a keen understanding of Product Design, I'm confident in my ability to deliver innovative solutions that drive results.
@@ -31,11 +30,18 @@ export const AboutMe = () => {
             </div>
             
           </div>
-      </div>
+      </div> */
       <div>
-        <Studies />
+        <div className='navbar-contain '>
+                  <Navbar />
+        </div>
+        <Presentation />
+      <Studies />
+       <Carousel />
+       <Timeline />
+      
       </div>
-    </div>
+    
                    
                 
            

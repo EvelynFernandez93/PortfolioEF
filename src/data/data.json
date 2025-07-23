@@ -1,9 +1,9 @@
 
 [
 	{ "id": 1,
-	  "nombre": "Diagnovet for desktop",
-	  "curso": "Web development",
-	  "carrera": "Front-end developer",
+	  "nombre": "Diagnovet para desktop",
+	  "curso": "Desarrollo Web",
+	  "carrera": " Desarrollo Front-end ",
 	  "diplomatura": "Coder-House",
 	  "tecnologias":[
 		{
@@ -29,119 +29,40 @@
 		}
 	  ],
 	  "img": "img1.jpg",
-	  "informacion": "I immersed myself in an intensive web programming course, where I acquired solid skills in developing responsive and attractive websites. I learned to master key technologies such as HTML, CSS, and SASS, and to apply them in creating effective web designs. My experience in the course also enabled me to develop skills in using tools like Flexbox, Grids, and Bootstrap, which facilitated the creation of complex and responsive layouts. Additionally, I learned to manipulate pseudo-classes and create dynamic animations that enhance the user experience.A fundamental aspect of my training was the introduction to Git and GitHub, which allowed me to understand the importance of version control and collaboration in web development projects. I also acquired basic knowledge of search engine optimization (SEO) and web security (KYC).",
-   	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
+	  "informacion": "Diagnovet es un laboratorio veterinario que tiene como objetivo brindar un servicio rápido y de confianza, en este proyecto podrás ver información de utilidad, tales como horarios de extracción, información sobre los estudios que realizan y sobre sus servicios",
 	"proyecto": "https://github.com/EvelynFernandez93/PFFernandezEvelynNahir",
-	"prototipo": "https://evelynfernandez93.github.io/PFFernandezEvelynNahir/"
-	},
-	{ "id": 2,
-	  "nombre": "Diagnovet for desktop 2",
-	  "curso": "Web development",
-	  "carrera": "Front-end developer",
-	  "diplomatura": "Coder-House",
-	  "tecnologias":[
-		{
-			"tec" : "HTML"
-		},
-		{
-			"tec" : "CSS"
-		},
-		{
-			"tec" : "Saas"
-		},
-		{
-			"tec" : "Boostrap"
-		},
-		{
-			"tec" : "Node.js"
-		},
-		{
-			"tec" : "JavaScript"
-		},
-		{
-			"tec" : "React"
-		}
+	"prototipo": "https://evelynfernandez93.github.io/PFFernandezEvelynNahir/",
+	"introduccion": "Este proyecto fué mi primer desarrollo como estudiante de programación, es un proyecto sin propósito, es decir que su contenido no tiene ningún fin más que aplicar lo aprendido.",
+	    "funcionalidades": [
+     	 "Ver las diferentes secciones",
+     	 "Mostrar fotos por medio de un carousel",
+      	"Uso de framework Boostrap",
+      	"Modo oscuro"
+    ],	
+	"aprendizajes": [
+      "Arquitectura de la información",
+      "Organizaci\u00f3n del c\u00f3digo con componentes"
+    ],
+	"mejoras": [
+      "Redisño completo del sitio para darle personalidad",
+      "Reestructurac\u00f3n",
+      "Optimizaci\u00f3n de rendimiento"
+    ],
+	    "galeria": [
+      "screen1.jpg",
+      "screen2.jpg"
+    ],
+	  
+    "repositorio": "https://github.com/example/repo-1"
+  },
 
-	  ],
-	  "img": "img2.png",
-	  "informacion": "This project is part of the Web Development course, in which I learned to manipulate pseudoclasses and create dynamic animations that improve the user experience. The most important thing is in the code since I used “Sass”, reorganized the “CSS” code and began to apply some Java Script practices.",
-   	 "video": "https://www.youtube.com/channel/UC97aNdHFCpgAh3mylktZ1OQ",
-	 "proyecto": "https://github.com/EvelynFernandez93/2PreEntregaEvelynFernandez",
-	"prototipo": "https://evelynfernandez93.github.io/2PreEntregaEvelynFernandez/"
 
-	},
-    { "id": 3,
-	  "nombre": "Diagnovet for desktop 3",
-	  "curso": "Java Script",
-	  "carrera": "Front-end developer",
-	  "diplomatura": "Coder-House",
-	  "tecnologias":[
-		{
-			"tec" : "HTML"
-		},
-		{
-			"tec" : "CSS"
-		},
-		{
-			"tec" : "Saas"
-		},
-		{
-			"tec" : "Boostrap"
-		},
-		{
-			"tec" : "Node.js"
-		},
-		{
-			"tec" : "JavaScript"
-		},
-		{
-			"tec" : "React"
-		}
-
-	  ],
-	  "img": "img1.jpg",
-	  "informacion": "I immersed myself in an intensive JavaScript course, where I expanded my programming skills and covered fundamental and advanced topics in the language. Over the course of 9 weeks, I explored and mastered key concepts such as introduction to JavaScript, cycle control, functions, arrays, objects, higher-order functions, DOM manipulation and events, asynchronous HTTP requests, and promises and use of external libraries. This course enabled me to develop solid skills in JavaScript, allowing me to create dynamic and efficient web applications. I learned to control cycles and control structures, create and use functions, manipulate arrays and objects, and apply object-oriented and functional programming concepts. I also acquired knowledge about DOM manipulation and events in the browser, as well as asynchronous HTTP requests. I learned to use promises and external libraries to improve the efficiency and scalability of my applications. In general, this course provided me with a solid foundation in JavaScript and allowed me to develop valuable skills for creating dynamic and efficient web applications.",
-   	 "video": "enlace de la ubicación",
-	  "proyecto":  "https://github.com/EvelynFernandez93/3PreEntregaFernandezEvelyn",
-	"prototipo": "https://evelynfernandez93.github.io/3PreEntregaFernandezEvelyn/"
-	},
-	{ "id": 4,
-	  "nombre": "E-commerce",
-	  "curso": "React course",
-	  "carrera":"Front-end developer",
-	  "diplomatura": "Coder-House", 
-	  "tecnologias":[
-		{
-			"tec" : "HTML"
-		},
-		{
-			"tec" : "CSS"
-		},
-		{
-			"tec" : "Boostrap"
-		},
-		{
-			"tec" : "Node.js"
-		},
-		{
-			"tec" : "JavaScript"
-		},
-		{
-			"tec" : "React"
-		}
-	  ],
-	  "img": "img4.png",
-	  "informacion": "I immersed myself in a specialized React Js course, where I acquired solid knowledge in creating dynamic and scalable web applications. Throughout the course, I explored fundamental and advanced topics in React Js, including setup of the development environment, introduction to JSX, creation and manipulation of components, consumption of APIs, routing, navigation, and events, rendering techniques, and context management using Context API, as well as integration with Firebase for real-time databases. I developed valuable skills in creating reusable components, managing states and props, and implementing design patterns such as Hooks and Children. I also learned to consume APIs and integrate external libraries to enhance the functionality of my applications. Additionally, I acquired knowledge of rendering techniques and context management, which enabled me to create more efficient and scalable web applications. Integration with Firebase provided me with the opportunity to create real-time web applications, enhancing the user experience. Overall, this course provided me with a solid foundation in React Js and allowed me to develop valuable skills for creating modern and scalable web applications.The final result is an E-commerce I hope you like it!",
-   	  "video": "enlace de la ubicación" ,
-	   "proyecto":  "https://github.com/EvelynFernandez93/PreEntrega1EvelynFernandezReact",
-	"prototipo": "https://youtu.be/69jClpqL_uQ"
-	},
 	
 	
 	{ "id": 5,
-	  "nombre": "Community for mobile",
-	  "curso": "UX - UI Course",
-	  "carrera": "Product design",
+	  "nombre": "Community app",
+	  "curso": " Curso UX - UI ",
+	  "carrera": "Diseño de producto",
 	  "diplomatura": "Coder-House",
 	  "tecnologias":[
 		{
@@ -150,14 +71,33 @@
 
 	  ],
 	  "img": "img5.png",
-	  "informacion": "This course focused on learning to use different research tools under the 'Design Thinking' method. We understood the terms Mission, Vision, and Purpose of a company, developing a Point of View (POV) and, based on the collected data and its analysis, we designed an application to solve the problem. We worked user-centered, using standardized techniques to define 'User Personas,' generate an empathy map, and finally find a solution with a Minimum Viable Product (MVP).This course aimed to help us understand the different stages for 'ideating' an application, from low-fidelity wireframes to high-fidelity prototypes. I also performed Card Sorting and Dendrograms to determine the adequate information structure. I used Taskflow and Userflow to define the various tasks encompassed by the app.The color selection respected the WCAG 2.0 guidelines (Web Content Accessibility Guidelines), and we used 'Adobe Color' to verify that the color relationship between text and background was optimal. We created a logo for the product and finally conducted a Heuristic Evaluation, Executive Summary, and Efficacy Metrics.The final product was well-received by the evaluating team, who were very satisfied with the research process but not as much with the final design, as it was not aligned with the latest trends. That's why, in my next project, you'll find a redesign of my 'Community for Mobile' project.",
+	  "informacion": "Es un proyecto que se destaca por su funcionalidad, ya que responde a una problemática actual, busca alinear los perfiles de los inquilinos, y poder garantizarle un lugar que se adapte a sus necesidades",
 	 "proyecto": "https://www.figma.com/proto/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?page-id=166%3A8067&node-id=166-8068&viewport=-22%2C339%2C0.19&t=eSydxnazGOKb6RnB-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=166%3A8068",
-	 "prototipo": "https://www.figma.com/proto/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?page-id=1%3A9354&node-id=1-10187&viewport=2039%2C455%2C0.3&t=rhtsq7BT5LULIoaL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A10187"
-	  
-	},
+	 "prototipo": "https://www.figma.com/proto/1iZAsffJtoiSxT8NisvPsf/UX-UI-course?page-id=1%3A9354&node-id=1-10187&viewport=2039%2C455%2C0.3&t=rhtsq7BT5LULIoaL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A10187",
+	"introduccion": "Este proyecto busca resolver una necesidad puntual mediante una interfaz clara y herramientas modernas.",
+	    "funcionalidades": [
+     	 "Registro de usuarios",
+     	 "Realizar valoraciones a otros usuarios",
+      	"Comunicac\u00e1n con otros miembros del complejo"
+    ],	
+	"aprendizajes": [
+      "Uso Figma",
+      "Organizaci\u00f3n de pantallas",
+      "Prototipado"
+    ],
+	"mejoras": [
+      "Carga de contenido ya que carece del mismo",
+      "Creación de imagenes personalizadas",
+	  "Rediseño actualizado"
+    ],
+	    "galeria": [
+      "screen1.jpg",
+      "screen2.jpg"
+    ]
+  },
 	{"id": 6,
-	  "nombre": "Community for mobile updated",
-	  "curso": "Freelance project",
+	  "nombre": "Community app rediseño",
+	  "curso": "Proyecto Freelance",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
 	  "tecnologias":[
@@ -167,15 +107,37 @@
 
 	  ],
 	  "img": "img6.png",
-	  "informacion": "Community for Mobile' was a project that stood out for its innovative proposal, its 'Research' and 'Ideation' process received excellent reviews, but its design didn't quite meet expectations. That's why, based on the feedback received, we decided to redesign the application. We generated a design aligned with the latest trends, while respecting the information architecture, but with a focus on current design patterns. I hope you enjoy the result!" ,
+	  "informacion": "Este rediseño fué propuesto por un reclutador en un proceso de selección, ya que el proyecto le pareció super interesante pero el diseño no estaba actualizado" ,
    	 "video": "enlace de la ubicación",
 	 "proyecto": "https://www.figma.com/proto/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?page-id=166%3A8067&node-id=166-8068&p=f&viewport=-101%2C-6870%2C1.09&t=LUjO1bEjwt8L4Vfr-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=166%3A8068",
-	 "prototipo": "https://www.figma.com/proto/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?page-id=153%3A20557&node-id=153-20785&viewport=473%2C314%2C0.05&t=7stEoIInzpOwiaOB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=153%3A20785"
-	},
+	 "prototipo": "https://www.figma.com/proto/3JSQrSGcuynutk6hQo8Q1y/Community-for-mobile-redisign?page-id=153%3A20557&node-id=153-20785&viewport=473%2C314%2C0.05&t=7stEoIInzpOwiaOB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=153%3A20785",
+"introduccion": "Este proyecto busca resolver una necesidad puntual mediante una interfaz clara y herramientas modernas.",
+	   "funcionalidades": [
+     	 "Registro de usuarios",
+     	 "Realizar valoraciones a otros usuarios",
+      	"Comunicac\u00e1n con otros miembros del complejo"
+      	
+    ],	
+	"aprendizajes": [
+      "Uso Figma",
+      "Organizaci\u00f3n de pantallas",
+      "Prototipado"
+    ],
+	"mejoras": [
+      "Carga de contenido ya que carece del mismo",
+      "Creación de imagenes personalizadas"
+    ],
+	    "galeria": [
+      "screen1.jpg",
+      "screen2.jpg"
+    ]
+  },
+
+	
 	{"id": 7,
-	  "nombre": "Community for desktop",
-	  "curso": "Prototipe",
-	  "carrera": "Product design",
+	  "nombre": "Sitio web, Community ",
+	  "curso": "Prototipado",
+	  "carrera": "Diseño de producto",
 	  "diplomatura": "Coder-House",
 	  "tecnologias":[
 		{
@@ -184,15 +146,36 @@
 
 	  ],
 	  "img": "img7.png",
-	  "informacion": "The objectives of this course were to develop a web page, which is why we sought to raise the stakes of 'Community for Mobile' and take the project to the next level. We designed a desktop version, reusing valuable information from 'Community for Mobile.' To adapt the design for desktop, we created a low-fidelity prototype, which we tested using 'Maze' to gather usability test. With the collected data, we made the necessary changes. We also conducted A/B testing to choose the most attractive designs for the user.One of the most significant lessons from this course was learning to generate variants for different elements, such as 'Buttons' and 'Cards,' and making them responsive. I hope you enjoy this new proposal!",
-   	 "video": "enlace de la ubicación",
+	  "informacion": "El objetivo de este curso era desarrollar una página web, por lo que buscamos llevar el proyecto a un nivel superior. Diseñamos una versión de escritorio, reutilizando información valiosa de la comunidad. Para adaptar el diseño a la versión de escritorio, creamos un prototipo de baja fidelidad, que probamos con Maze para recopilar datos de usabilidad. Con los datos recopilados, realizamos los cambios necesarios. También realizamos pruebas A/B para elegir los diseños más atractivos para el usuario. Una de las lecciones más importantes de este curso fue aprender a generar variantes para diferentes elementos, como Botones y Tarjetas, y a adaptarlas a su diseño responsivo. ¡Espero que disfruten de esta nueva propuesta!",
 	  "proyecto":  "https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=12%3A7445&node-id=12-7474&viewport=405%2C376%2C0.04&t=HYHHjjL1kbFcwHNn-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=12%3A7474",	 
-	 "prototipo":"https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=0%3A1&node-id=1-1480&node-type=CANVAS&viewport=510%2C816%2C0.18&t=sSU5wHX6KTcmrms0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A1480"
+	 "prototipo": "https://www.figma.com/proto/D3oDRfoiHzQsK2bU1Bxgzz/Final-Proyect-Evelyn-Fernandez?page-id=0%3A1&node-id=1-1480&node-type=CANVAS&viewport=510%2C816%2C0.18&t=sSU5wHX6KTcmrms0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A1480",
+	"introduccion": "Este proyecto busca resolver una necesidad puntual mediante una interfaz clara y herramientas modernas.",
+	    "funcionalidades": [
+     	 "Registro de usuarios",
+     	 "Realizar valoraciones a otros usuarios",
+      	"Comunicac\u00e1n con otros miembros del complejo"
+    ],	
+	"aprendizajes": [
+      "Uso Figma",
+	  "Diseño atómico",
+      "Organizaci\u00f3n de pantallas",
+      "Prototipado"
+    ],
+	"mejoras": [
+      "Carga de contenido ya que carece del mismo",
+      "Creación de imagenes personalizadas"
+    ],
+	    "galeria": [
+      "screen1.jpg",
+      "screen2.jpg"
+    ]
+  },
+
 	 
-	},
+	
     
 	{"id": 8,
-	  "nombre": "Garnier redesign",
+	  "nombre": "Rediseño Garnier",
 	  "curso": "UI",
 	  "carrera": "Product design",
 	  "diplomatura": "Coder-House",
@@ -203,15 +186,31 @@
 
 	  ],
 	  "img": "img8.png",
-	  "informacion": "In this course I learned how to build, analyze, maintain and scale a Design System. I applied the Atomic Design methodology to create each of the elements. I created a design system to improve the quality of your product design and made your product ecosystem grow.The page I chose to redesign was Garnier Argentina, and this was the result.",
+	  "informacion": "En este curso aprendí a construir, analizar, mantener y escalar un Sistema de Diseño. Apliqué la metodología de Diseño Atómico para crear cada uno de los elementos. Creé un sistema de diseño para mejorar la calidad del diseño de tu producto e impulsar el crecimiento de tu ecosistema de productos. La página que elegí rediseñar fue Garnier Argentina, y este fue el resultado.",
    	 "video": "enlace de la ubicación",
 	 "proyecto":  "https://www.figma.com/proto/hBgTMPEU219tmhkbt0vWkS/UI-Evelyn-Fernandez?page-id=615%3A2110&node-id=615-2111&viewport=277%2C758%2C0.24&t=622QXMZwQTN9vTy2-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=615%3A2111",	 
-	 "prototipo":"https://www.figma.com/proto/2w58tmKXt74tYAABFDaWhX/Documentaci%C3%B3n-%2B-Redise%C3%B1o?page-id=6%3A312&node-id=6-8741&node-type=frame&viewport=823%2C-227%2C0.1&t=gb5eVL6XfBGtAEwP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A8741"
-	},
+	 "prototipo": "https://www.figma.com/proto/2w58tmKXt74tYAABFDaWhX/Documentaci%C3%B3n-%2B-Redise%C3%B1o?page-id=6%3A312&node-id=6-8741&node-type=frame&viewport=823%2C-227%2C0.1&t=gb5eVL6XfBGtAEwP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A8741",
+"introduccion": "Este proyecto busca resolver una necesidad puntual mediante una interfaz clara y herramientas modernas.",
+	    "funcionalidades": [
+     	 "Rediseño atractivo y responsive"
+    ],	
+	"aprendizajes": [
+      "Rediseño de páginas web"
+    ],
+	"mejoras": [
+      "Crear el rediseño completo"
+    ],
+	    "galeria": [
+      "screen1.jpg",
+      "screen2.jpg"
+    ]
+  },
+
+
 	{"id": 9,
 	  "nombre": "All service",
 	  "curso": "Product manager",
-	  "carrera": "Product design",
+	  "carrera": "Diseño de producto",
 	  "diplomatura": "Coder-House",
 	  "tecnologias":[
 		{
@@ -220,11 +219,21 @@
 
 	  ],
 	  "img": "img9.png",
-	  "informacion": "With this course, I completed my training as a Product Designer, deepening my knowledge in Design Thinking, UX, Prototyping, and Scrum. Additionally, I learned how different teams collaborate to create a user-centered product, using metrics and KPIs to measure and optimize the process.",
-   	 "video": "enlace de la ubicación",
+	  "informacion": "Con este curso, completé mi formación como Diseñador de Producto, profundizando mis conocimientos en Design Thinking, UX, Prototipado y Scrum. Además, aprendí cómo diferentes equipos colaboran para crear un producto centrado en el usuario, utilizando métricas e indicadores clave de rendimiento (KPI) para medir y optimizar el proceso.",
 	 "proyecto":  "https://www.figma.com/proto/rAmbwANScTPvCB0NtLqowF/Product-Manager-Evelyn-Fern%C3%A1ndez?node-id=161-2117&p=f&viewport=223%2C-2985%2C0.14&t=4zeNPDJ2JMvW0TSA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=161%3A2131",	 
-	 "prototipo":"https://www.figma.com/proto/rAmbwANScTPvCB0NtLqowF/Product-Manager-Evelyn-Fern%C3%A1ndez?node-id=161-2117&p=f&viewport=223%2C-2985%2C0.14&t=4zeNPDJ2JMvW0TSA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=161%3A2131 "
+	 "prototipo": "https://www.figma.com/proto/rAmbwANScTPvCB0NtLqowF/Product-Manager-Evelyn-Fern%C3%A1ndez?node-id=161-2117&p=f&viewport=223%2C-2985%2C0.14&t=4zeNPDJ2JMvW0TSA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=161%3A2131",
+"introduccion": "Este proyecto busca resolver una necesidad puntual mediante una interfaz clara y herramientas modernas. El objetivo del proyecto no era realizar una aplicación, sino llevar a cabo un proyecto real, por lo que lo interesante aquí es el proceso más que el resultado",
+	   	
+	"aprendizajes": [
+      "Gestión de proyectos",
+      "Uso de herramientas para organización",
+      "Integraci\u00f3n entre los diferentes sectores de una organización"
+    ],
+	
+	    "galeria": [
+      "screen1.jpg",
+      "screen2.jpg"
+    ]
 	}
 
-	
 	]

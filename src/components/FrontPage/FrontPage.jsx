@@ -6,14 +6,15 @@ import { Behance } from '../../svg/Behance';
 import {  Linkedin } from '../../svg/Linkedin';
 import { Link } from 'react-router-dom';
 import img from '../../assets/Img'
-import { AboutMe } from '../AboutMe/AboutMe';
+/* import { AboutMe } from '../AboutMe/AboutMe'; */
+import { Home } from '../Home/Home';
 
 
 export const FrontPage = () => {
   return (
     <div className=' ' >
-      <div className='front-page background
-    '> {/* FRONT-PAGE */}
+     {/*  <div className='front-page background
+    '> 
         <div className='navbar-contain '>
           <Navbar />
         </div>
@@ -39,7 +40,7 @@ export const FrontPage = () => {
           
 
           </div>
-          <div>  {/* TOOLTIPS */} 
+          <div>  //Tootips 
             <div className='tools-contain' >
               <h3 className='tool-p'>
                 Tools  
@@ -58,9 +59,13 @@ export const FrontPage = () => {
           <div>
         </div>
         </div>
-      </div>{/* END-FRONT-PAGE */}
+      </div> */} 
+      {/* <div className='navbar-contain '>
+          <Navbar />
+        </div> */}
       <div>
-        <AboutMe />
+        <Home />
+        {/* <AboutMe /> */}
       </div>
     </div>
   )

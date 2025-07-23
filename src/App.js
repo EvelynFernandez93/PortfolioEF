@@ -1,4 +1,8 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
+
 import { ItemDetailContainer } from './components/ItemDetailContainer/ItemDetailContainer';
 /* import { Item } from './components/Item/Item'; */
 
@@ -23,9 +27,9 @@ function App() {
     <div >
       <BrowserRouter >
         <div >
-        <Routes className='backgraund '>
-          
+        <Routes >
           <Route path='/' element={<FrontPage />}/>
+          <Route path='/about' element={<AboutMe />}/>
           <Route path='/item/:id' element={<ItemDetailContainer />} />
           <Route path='/projects' element={<Project />}/>
           <Route path='/contact' element={<ContactPage />}/>
