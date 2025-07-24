@@ -10,7 +10,7 @@ import { Navbar } from '../Navbar/Navbar';
 
 export const AboutMe = () => {
   return (
-      <div>
+      <div className='about-me-contain'>
       <Navbar />  
       <Presentation />
       <Studies />

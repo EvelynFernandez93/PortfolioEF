@@ -13,11 +13,6 @@ export const Footer = () => {
             </p>
          </div>
          <ul className='footer-icons '>
-            {/* <li className='f_icon '>
-              <Link to={""}>
-                    
-              </Link>
-            </li> */}
             <li className='footer-redes' >
             <Link to={"https://www.instagram.com/entrecerrosdesign?igsh=eXFleWx3eGg1ZzRm"} target="_blank">
                     <Instagram />
@@ -27,16 +22,9 @@ export const Footer = () => {
             </Link>
             </li>
          </ul>
-         {/* //Iconos
-            <ul className='footer-icons '>
-              <li className='f_icon '><Link to={'mailto:endeveloper1@gmail.com'}  target="_blank"><Gmail  /></Link></li>
-              <li className='f_icon '><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/"}  target="_blank"><Linkedin /></Link></li>
-
-            </ul> */}
-          
          </div>
 
     
-    /* </div> */
+   
   )
 }

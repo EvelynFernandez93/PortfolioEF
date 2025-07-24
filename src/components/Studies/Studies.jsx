@@ -2,8 +2,8 @@ import React from 'react'
 
 export const Studies = () => {
   return (
-    <div>
-          <div className='mis-habilidades'> {/* Mis habilidades */}
+    <div className='mis-habilidades'>
+          <div > {/* Mis habilidades */}
             <div className='contenedor-mis-habilidades'>
                 <div>
                     <p className='titulo-mis-habilidades'>Mis habilidades</p>

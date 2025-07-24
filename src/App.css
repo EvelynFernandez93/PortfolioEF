@@ -891,7 +891,7 @@ line-height: normal;
 
 .timeline-complete{
   background: var(--Foundation-Terciario-terciario-300, #FAD568);
-  width: auto;
+  width: 100%;
 }
 .timeline-title-conteiner{
   display: flex;
@@ -1074,30 +1074,23 @@ line-height: normal;
 
 
 .about-me-contain {
-  background: var(--Schemes-Inverse-Surface, #382E2E);
-box-shadow: 0px 4px 10.7px 0px rgba(238, 176, 192, 0.25);
-  container-type: flex;
-  /* width: 1441px; */
-  width: 100%;
-  height: auto;
-  flex-shrink: 0;
-  display: flex;
-  justify-content:center;
-  align-items: flex-start;
-  align-content: center;
-  gap: 120px;
-  flex-wrap: wrap;
-  padding: 40px;
+display: flex;
+width: 100%;
+flex-direction: column;
+align-items: flex-start;
+flex-shrink: 0;
 }
 .mis-habilidades{
+
+align-self: stretch;
   display: flex;
 padding: 24px 48px;
 flex-direction: column;
-align-items: flex-start;
 align-self: stretch;
 background: var(--Foundation-Primario-primario-500, #223B3E);
 }
 .contenedor-mis-habilidades{
+align-self: stretch;
   display: flex;
 flex-direction: column;
 align-items: center;
