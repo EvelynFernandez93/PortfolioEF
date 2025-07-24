@@ -4,11 +4,7 @@
   box-sizing: border-box;
     
 }
-* { outline: 1px dashed blue; }
-html, body {
-  margin: 0; padding: 0; overflow-x: hidden;
-  outline: 3px solid red;
-}
+
 .descripcion-texto-card {
   text-decoration: none; /* Quita el subrayado */
   color: inherit;         /* Hereda el color del contenedor */
