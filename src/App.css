@@ -4,37 +4,23 @@
   box-sizing: border-box;
     
 }
+* { outline: 1px dashed blue; }
+html, body {
+  margin: 0; padding: 0; overflow-x: hidden;
+  outline: 3px solid red;
+}
 .descripcion-texto-card {
   text-decoration: none; /* Quita el subrayado */
   color: inherit;         /* Hereda el color del contenedor */
 }
 
 
-a{
-  color: inherit;
-  text-decoration-line:none;
-}
+
 .enlaces {
   display: flex;
 align-items: center;
 gap: 55px;
 }
-
-.background{
-  background: linear-gradient(0deg, rgba(29, 27, 32, 0.50) 0%, rgba(29, 27, 32, 0.50) 100%), url(../public/img/background.jpg) lightgray 50% / cover no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  height: 100vh;
- height: auto;
- flex-shrink: 0;
- justify-content: flex-start;
-}
-
-
-.background-contact {
-  background-color: #000;
-}
-
 
 ul {
   
@@ -51,7 +37,6 @@ ul {
   background: transparent;
   transition: all 0.3s ease;
   color: var(--Foundation-Primario-primario-500, #223B3E); /* Para que fill: currentColor funcione */
- 
 }
 .icon-s:hover {
   color: var(--Foundation-Terciario-terciario-500, #F7C01D);
@@ -73,7 +58,6 @@ ul {
   transition: all 0.3s ease;
   color: var(--Foundation-Primario-primario-500, #223B3E); /* Para que fill: currentColor funcione */
 }
-
 .f_icon:hover {
   color: var(--Foundation-Terciario-terciario-500, #F7C01D);
 }
@@ -84,16 +68,11 @@ ul {
   cursor: pointer;
 }
 
+/* NAVBAR */
 
-.my-router  {
-  list-style-type: none;
-}
-/* Navbar */
 .navbar-contain {
  justify-self:end;
 }
-
-
 .navbar {
 display: flex;
 flex-direction: row;
@@ -101,49 +80,54 @@ justify-content: flex-end;
 margin-right: 32px;
 align-items: center;
 }
-
-
 .main-title {
-   text-decoration: none;
-  display: flex;
+text-decoration: none;
+display: flex;
 width: auto;
 padding: 8px;
 flex-direction: column;
 align-items: center;
 gap: 32px;
 border-radius: 20px;
-/* color: var(--material-theme-Colos-styles-Primary-primary-50, #F6E7EB);
-font-family: Inter;
-font-family: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: normal; */
 color: #223B3E;
-
 font-family: Atma;
 font-size: 24px;
 font-style: normal;
 font-weight: 300;
 line-height: normal;
 }
-
-
-.main-navbar {
-   
+.main-navbar {  
   display: flex;
  flex-direction: row;
  justify-content: flex-end;
   align-items: center;
   gap: 32px;
-}
- 
+} 
 .main-title:hover {
- 
-  /*  border-radius: 4px;
-   background: rgba(214, 145, 163, 0.50); */
    border-radius: 24px;
    background: var(--Foundation-Terciario-terciario-500, #F7C01D);
 }
+/* TABLETS: <= 768px */
+@media (max-width: 768px) {
+ 
+
+  .main-title {
+    font-size: 20px;
+    padding: 6px;
+    gap: 24px;
+  }
+}
+
+/* CELULARES: <= 480px */
+@media (max-width: 480px) {
+
+  .main-title {
+    font-size: 18px;
+    padding: 4px;
+    gap: 16px;
+  }
+}
+
 
 /* INTRODUCION */
 
@@ -307,7 +291,6 @@ aspect-ratio: 372.50/377.26;
     width: auto;
   }
   
-
 }
 
 /* SERVICIOS */
@@ -444,10 +427,13 @@ align-self: stretch;
   .servicios-descripcion {
     font-size: 16px;
     width: auto;
-    padding:0px 24px;
+    /* padding:0px 24px; */
     
   }
-
+  .servicios-card-img{
+    width: 100%;
+    justify-content: center;
+  }
   .servicios-card-titulo{
     font-size: 20px;
   }
@@ -459,6 +445,10 @@ align-self: stretch;
   }
   .servicios-card {
     width: 45%; 
+  }
+   .servicios-card {
+    width: 100%;
+    max-width: 304px; /* Opcional para limitar ancho en móviles */
   }
 }
 
@@ -472,7 +462,7 @@ align-self: stretch;
 
   .servicios-card {
     width: 100%;
-    max-width: 320px; /* Opcional para limitar ancho en móviles */
+    max-width: 304px; /* Opcional para limitar ancho en móviles */
   }
 }
 
@@ -972,8 +962,8 @@ line-height: normal;
 
 
 .timeline-complete{
-  
   background: var(--Foundation-Terciario-terciario-300, #FAD568);
+  width: auto;
 }
 .timeline-title-conteiner{
   display: flex;
@@ -982,7 +972,7 @@ justify-content: center;
 align-items: center;
 align-self: stretch;
 gap: 24px;
-margin: 24px 0px 0px 0px;
+
 
 
 }
@@ -1716,7 +1706,7 @@ background: var(--Foundation-Terciario-terciario-100, #FDEBB9);
 align-items: center;
 gap: 21px; */
 display: flex;
-width: 162px;
+width: auto;
 padding: 0px 8px;
 align-items: center;
 gap: 4px;

@@ -19,7 +19,7 @@ import { BrowserRouter, Route, Routes} from  "react-router-dom";
 import {Footer} from './components/Footer/Footer';
 import { FrontPage } from './components/FrontPage/FrontPage';
 import { AboutMe } from './components/AboutMe/AboutMe';
-import { ContactPage } from './components/ContactPage/ContactPage';
+
 
 
 function App() {
@@ -32,7 +32,6 @@ function App() {
           <Route path='/about' element={<AboutMe />}/>
           <Route path='/item/:id' element={<ItemDetailContainer />} />
           <Route path='/projects' element={<Project />}/>
-          <Route path='/contact' element={<ContactPage />}/>
           
         </Routes>
         <div>

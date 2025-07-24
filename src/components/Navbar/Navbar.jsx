@@ -16,7 +16,6 @@ export const Navbar = () => {
         <li><Link className='main-title button' to="/projects">Proyectos</Link></li>
         {/* <li><Link className='main-title button' to="/contact">Contact</Link></li> */}
        </ul>
-       
       
     </nav>
     </div>
