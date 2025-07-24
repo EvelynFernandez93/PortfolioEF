@@ -328,7 +328,7 @@ font-family: Atma;
 font-size: 24px;
 font-style: normal;
 font-weight: 500;
-line-height: normal;
+line-height:normal;
 }
 .servicios-descripcion{
 color: var(--Foundation-Terciario-terciario-100, #FDEBB9);
@@ -418,7 +418,7 @@ align-self: stretch;
   }
 
   .servicios-subtitulo {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .servicios-descripcion {
