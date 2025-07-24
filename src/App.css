@@ -301,7 +301,6 @@ width: 100%;
 flex-direction: column;
 align-items: center;
 background: var(--Foundation-Primario-primario-500, #223B3E);
-
 gap: 24px;
 }
 .servicios-introducion-completa{
@@ -346,7 +345,7 @@ align-self: stretch;
 .servicios-cards-contenedor{
 display: flex;
   flex-wrap: wrap; 
-padding: 0px 48px 0px 104px;
+padding: 0px 24px 0px 24px;
 justify-content: space-between;
 align-items: center;
 align-self: stretch;
@@ -427,7 +426,7 @@ align-self: stretch;
   .servicios-descripcion {
     font-size: 16px;
     width: auto;
-    /* padding:0px 24px; */
+    /* padding:0px 24px;*/
     
   }
   .servicios-card-img{
@@ -625,70 +624,6 @@ line-height: normal;
 }
 
 /* Frontpage */
-.front-page{
- width: 100%;
- height: auto;
-}
-
-
-.front-inf {
-  flex-direction: column;
-  gap: 32px;
-  padding: 64px 32px 32px 32px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 790px
-}
-
-
-h2.text-body-500 {
-  color:#D691A3;
-  text-align: center;
-  font-family: "Roboto", sans-serif;
-  font-size: 32px;
-  font-size: normal;
-  font-weight: 400;
-  line-height: 32px;
-  width: max-content;
-  justify-content: center;
-}
-
-
-.icon-verified {
-  display: flex;
-  align-items: center;
-  vertical-align: middle;
-}
-
-
-.front-page-inf{
-  display: flex;
-width: 662px;
-height: 209px;
-padding: 32px;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-gap: 32px;
-flex-shrink: 0;
-border-radius: 20px;
-box-shadow: 11px 13px 4px 0px rgba(0, 0, 0, 0.25);
-}
-
-
-.text-heading{
-  width: 600px;
-color: #FFF;
-text-align: center;
-text-shadow: 15px 3px 8.4px rgba(0, 0, 0, 0.25);
-font-family: "Roboto", sans-serif;
-font-size: 32px;
-font-style: normal;
-font-weight: 400;
-line-height: 82px;
-}
 
 .background-icon {
   gap: 40px;
@@ -697,27 +632,8 @@ line-height: 82px;
   justify-content: center;
   align-items: flex-start;
 }
+/* INTRODUCCION PERSONAL */
 
-.icon {
-  border-radius: 8px;
-  background: #f9f2fc59;
-  box-shadow: 1px -1px 14.4px 0px #f9f2fc59;
-}
-
-
-.icon:hover {
-  box-shadow: 1px -1px 14.4px 0px #f9f2fc80;
-  background: #f9f2fc80
-}
-
-/* .tools-titles{
-  display: flex;
-height: 130px;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-align-self: stretch;
-} */
  .contenedor-introduccion-personal{
   display: flex;
 justify-content: center;
@@ -739,7 +655,7 @@ background-image: url(../public/img/foto-personal.png);
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;
-background-color: transparent; /* Asegura que no haya color de fondo */ 
+background-color: transparent; 
 }
 .descripción-personal{
 display: flex;
@@ -883,6 +799,7 @@ line-height: normal;
   align-items: flex-start;
   gap: 24px;
   align-self: stretch;
+  width: 90%;
 }
 
 .tool-and-name {
@@ -910,7 +827,7 @@ line-height: normal;
   }
 
   .tool-and-name {
-    width: 100px;
+    width: 140px;
     font-size: 18px;
   }
 
@@ -922,6 +839,10 @@ line-height: normal;
   .title-subtitle-tools {
     font-size: 18px;
     text-align: center;
+  }
+   .tool-and-name svg {
+    width: 56px;
+    height: 56px;
   }
 }
 
@@ -935,8 +856,8 @@ line-height: normal;
   }
 
   .tool-and-name {
-    width: 100%;
-    max-width: 160px;
+    width:100px;
+    max-width: 120px;
     font-size: 12px;
   }
 
@@ -947,7 +868,16 @@ line-height: normal;
   .title-subtitle-tools {
     font-size: 18px;
   }
+  .tools-contain {
+    
+    justify-content: center;
+    gap: 12px;
+    padding: 8px;
+  }
+
+
 }
+
 
 /* LOADER (estado inicial) */
 .tools-loading {
@@ -1429,12 +1359,12 @@ align-items: center;
 gap: 32px;
 align-self: stretch;
 }
-
+/* FOOTER */
 
 .footer-container{
 display: flex;
-width: 100%;
-height: max-content;
+width: auto;
+height: auto;
 padding: 32px 168px;
 flex-direction: column;
 align-items: center;
@@ -1442,10 +1372,8 @@ gap: 16px;
 flex-shrink: 0;
 background: var(--Foundation-Secundario-secundario-400, #84A388);
 }
-
 .footer-text{
 color: var(--Foundation-Secundario-secundario-900, #2A3B2D);
-
 font-family: Roboto;
 font-size: 20px;
 font-style: normal;

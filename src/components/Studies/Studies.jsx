@@ -3,7 +3,6 @@ import React from 'react'
 export const Studies = () => {
   return (
     <div>
-     
           <div className='mis-habilidades'> {/* Mis habilidades */}
             <div className='contenedor-mis-habilidades'>
                 <div>

@@ -6,7 +6,6 @@ import {  Linkedin } from '../../svg/Linkedin';
 
 export const Presentation = () => {
   return (
-    <div>
         <div className='contenedor-introduccion-personal'>
             <div className='foto-personal'>
 
@@ -25,9 +24,7 @@ export const Presentation = () => {
                                  <li className='f_icon '><Link to={"https://www.behance.net/evelynfernandez11"}  target="_blank"><Behance /></Link></li>
                                 </ul>
                 </div>
-
             </div>
         </div>
-    </div>
   )
 }

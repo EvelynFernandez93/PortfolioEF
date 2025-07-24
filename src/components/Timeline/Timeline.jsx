@@ -79,23 +79,6 @@ const Timeline = () => {
                 <p className="timeline-subtitle">La combinación entre mi formación técnica, experiencia en salud, desarrollo y diseño me convierten en una candidata resiliente y versatil</p>
             </div>
         </div>
-    {/* <div className="timeline-wrapper">
-      <div className="timeline-line"></div>
-      {estudios.map((item, index) => (
-        <div
-          className={`timeline-item ${index % 2 === 0 ? 'left' : 'right'}`}
-          key={index}
-        >
-          <div className="timeline-dot"></div>
-          <div className="timeline-content">
-            <p>{item.periodo}</p>
-            <h3>{item.titulo}</h3>
-            <h4>{item.lugar}</h4>  
-          </div>
-      </div>
-      
-      ))}
-    </div> */}
     <div className="timeline-wrapper">
       <div className="timeline-line"></div>
       {estudios.map((item, index) => (

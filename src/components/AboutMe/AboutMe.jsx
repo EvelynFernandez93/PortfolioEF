@@ -9,7 +9,6 @@ import { Navbar } from '../Navbar/Navbar';
 
 
 export const AboutMe = () => {
-  
   return (
       <div>
       <Navbar />  
@@ -17,12 +16,6 @@ export const AboutMe = () => {
       <Studies />
        <Carousel />
        <Timeline />
-      </div>
-    
-                   
-                
-           
-     
-    
+      </div>  
   )
 }

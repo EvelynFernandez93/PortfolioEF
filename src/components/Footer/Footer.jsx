@@ -6,7 +6,6 @@ import { Facebook } from '../../svg/Facebook'
 
 export const Footer = () => {
   return (
-    <div>
         <div className='footer-container'> {/* footer */}
          <div className='footer-text'> {/* text */}
             <p>
@@ -37,7 +36,7 @@ export const Footer = () => {
           
          </div>
 
-      </div>
+    
     /* </div> */
   )
 }
