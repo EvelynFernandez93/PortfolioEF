@@ -292,12 +292,14 @@ aspect-ratio: 372.50/377.26;
 /* SERVICIOS */
 
 .servicios-contenedor{
+  padding: 24px;
   display: flex;
 width: 100%;
 flex-direction: column;
 align-items: center;
 background: var(--Foundation-Primario-primario-500, #223B3E);
 gap: 24px;
+
 }
 .servicios-introducion-completa{
 width: auto;
