@@ -1183,6 +1183,9 @@ align-self: stretch;
   .titulo-mis-habilidades {
     font-size: 24px;
   }
+  .timeline-content{
+    max-width: 380px;
+  }
 }
 .about-me-img {
 border-radius: 8px;
