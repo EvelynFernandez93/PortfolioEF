@@ -46,17 +46,10 @@ export const Services = () => {
                             <p className='servicios-card-titulo'>Diseño UX-UI</p>
                         </div>
                         <div>
-<<<<<<< HEAD
                             <p className='servicios-card-subtitulo'>Diseño para web y apps</p>
                         </div>
                         <div>
                             <p className='servicios-card-descripcion'>Investigación, estudio de mercado, Wireframes en baja, media y alta calidad. Prototipo interactivo.
-=======
-                            <p className='servicios-card-subtitulo'>Diseño para web y aps</p>
-                        </div>
-                        <div>
-                            <p className='servicios-card-descripcion'>Investigación, estudio de mercado, Wireframes en baja, media y alta calidad. prototipo interactivo.
->>>>>>> 0ef7b09 (Configuracion de nuevo ordenador)
                             </p>
                         </div>
                     </Link>
@@ -67,13 +60,8 @@ export const Services = () => {
                     </div>
                     <Link to={"https://identidad-de-marca-ef.my.canva.site/desarrollo-front-end"} target="_blank" className='descripcion-texto-card descripcion-texto-card'>
                         <div>
-<<<<<<< HEAD
                             <p className='servicios-card-titulo'>Programación</p>
                         </div>
-=======
-                        </div>
-                            <p className='servicios-card-titulo'>programación</p>
->>>>>>> 0ef7b09 (Configuracion de nuevo ordenador)
                         <div>
                             <p className='servicios-card-subtitulo'>Desarrollo front-end</p>
                         </div>
