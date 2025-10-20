@@ -216,6 +216,7 @@
 		{
 			"tec" : "Figma"
 		}
+		
 
 	  ],
 	  "img": "img9.png",
@@ -228,6 +229,50 @@
       "Gestión de proyectos",
       "Uso de herramientas para organización",
       "Integraci\u00f3n entre los diferentes sectores de una organización"
+    ],
+	
+	    "galeria": [
+      "screen1.jpg",
+      "screen2.jpg"
+    ]
+	},
+	{"id": 10,
+	  "nombre": "SP - servicios",
+	  "curso": "Proyecto Freelance",
+	  "carrera": "Branding, Diseño y Desarrollo",
+	  "tecnologias":[
+		{
+			"tec" : "Figma"
+		},{
+			"tec" : "HTML"
+		},
+		{
+			"tec" : "CSS"
+		},
+		{
+			"tec" : "Bootstrap"
+		},
+		{
+			"tec" : "Node.js"
+		},
+		{
+			"tec" : "JavaScript"
+		},
+		{
+			"tec" : "React"
+		}
+
+	  ],
+	  "img": "img10.png",
+	  "informacion": "SP - SERVICIOS es un proyecto que busca dar a conocer los diferentes servicios que ofrece un grupo de trabajadores autónomos",
+	 "proyecto":  "https://github.com/EvelynFernandez93/SP-servicios.git",	 
+	 "prototipo": "https://sp-servicios.vercel.app/",
+"introduccion": "Este proyecto busca resolver una necesidad real, es por eso que comenzamos realizando la Identidad de marca, continuamos con el Diseño UX UI y finalizamos con el Desarrollo Web, obteniendo un producto completo de principio a fin, también se diseñamos el contenido para redes sociales como Instagram y Facebook",
+	   	
+	"aprendizajes": [
+      "Gestión de proyectos",
+      "Uso de herramientas para organización",
+      "Integraci\u00f3n de conceptos"
     ],
 	
 	    "galeria": [
