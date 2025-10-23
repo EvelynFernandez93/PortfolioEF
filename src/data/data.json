@@ -48,10 +48,7 @@
       "Reestructuraci\u00f3n",
       "Optimizaci\u00f3n de rendimiento"
     ],
-	    "galeria": [
-      "screen1.jpg",
-      "screen2.jpg"
-    ],
+	   
 	  
     "repositorio": "https://github.com/example/repo-1"
   },
@@ -89,11 +86,8 @@
       "Carga de contenido ya que carece del mismo",
       "Creación de imagenes personalizadas",
 	  "Rediseño actualizado"
-    ],
-	    "galeria": [
-      "screen1.jpg",
-      "screen2.jpg"
     ]
+	   
   },
 	{"id": 6,
 	  "nombre": "Community app rediseño",
@@ -126,11 +120,7 @@
 	"mejoras": [
       "Carga de contenido ya que carece del mismo",
       "Creación de imagenes personalizadas"
-    ],
-	    "galeria": [
-      "screen1.jpg",
-      "screen2.jpg"
-    ]
+    ] 
   },
 
 	
@@ -164,11 +154,8 @@
 	"mejoras": [
       "Carga de contenido ya que carece del mismo",
       "Creación de imagenes personalizadas"
-    ],
-	    "galeria": [
-      "screen1.jpg",
-      "screen2.jpg"
     ]
+	   
   },
 
 	 
@@ -199,11 +186,8 @@
     ],
 	"mejoras": [
       "Crear el rediseño completo"
-    ],
-	    "galeria": [
-      "screen1.jpg",
-      "screen2.jpg"
     ]
+	   
   },
 
 
@@ -224,17 +208,15 @@
 	 "proyecto":  "https://www.figma.com/proto/rAmbwANScTPvCB0NtLqowF/Product-Manager-Evelyn-Fern%C3%A1ndez?node-id=161-2117&p=f&viewport=223%2C-2985%2C0.14&t=4zeNPDJ2JMvW0TSA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=161%3A2131",	 
 	 "prototipo": "https://www.figma.com/proto/rAmbwANScTPvCB0NtLqowF/Product-Manager-Evelyn-Fern%C3%A1ndez?node-id=161-2117&p=f&viewport=223%2C-2985%2C0.14&t=4zeNPDJ2JMvW0TSA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=161%3A2131",
 "introduccion": "Este proyecto busca resolver una necesidad puntual mediante una interfaz clara y herramientas modernas. El objetivo del proyecto no era realizar una aplicación, sino llevar a cabo un proyecto real, por lo que lo interesante aquí es el proceso más que el resultado",
+
 	   	
 	"aprendizajes": [
       "Gestión de proyectos",
       "Uso de herramientas para organización",
       "Integraci\u00f3n entre los diferentes sectores de una organización"
-    ],
-	
-	    "galeria": [
-      "screen1.jpg",
-      "screen2.jpg"
     ]
+	
+	  
 	},
 	{"id": 10,
 	  "nombre": "SP - servicios",
@@ -273,12 +255,9 @@
       "Gestión de proyectos",
       "Uso de herramientas para organización",
       "Integraci\u00f3n de conceptos"
-    ],
-	
-	    "galeria": [
-      "screen1.jpg",
-      "screen2.jpg"
     ]
+	
+	 
 	}
 
 	]
