@@ -23,7 +23,7 @@ export const IntroductionHome = () => {
 
                 </div>
                 <div >
-                <Link to={"https://identidad-de-marca-ef.my.canva.site/science-and-engineering-resume-in-green-black-simple-style"} target="_blank"className='boton-home-introduccion'>Ver CV</Link>
+                <Link to={"https://identidad-de-marca-ef.my.canva.site/cv-evelyn-fernandez-2025"} target="_blank"className='boton-home-introduccion'>Ver CV</Link>
 
             </div>
             
