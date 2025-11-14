@@ -21,7 +21,7 @@ export const Presentation = () => {
                     <ul className='background-icon' >
                                  <li className='f_icon '><Link to={"https://www.linkedin.com/in/evelyn-fernandez-663995255/ "}  target="_blank" ><Linkedin /></Link></li>
                                  <li className='f_icon '><Link to={"https://github.com/EvelynFernandez93"}  target="_blank"><GitHub/></Link></li>
-                                 <li className='f_icon '><Link to={"https://www.behance.net/evelynfernandez11"}  target="_blank"><Behance /></Link></li>
+                                 <li className='f_icon '><Link to={"https://www.behance.net/evelynfernandez1993"}  target="_blank"><Behance /></Link></li>
                                 </ul>
                 </div>
             </div>
